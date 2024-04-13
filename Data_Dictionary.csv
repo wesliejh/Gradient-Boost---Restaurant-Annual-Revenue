@@ -1,0 +1,35 @@
+S No.,Variable Name,Variable Description
+1,Registration Number,This is a restaurant ID
+2,Annual Turnover,Annual revenue of the restaurant in INR
+3,Cuisine,Type of cuisine served in the restaurant
+4,City,City at which the restaurant is located
+5,Restaurant Location,This variable determines whether the restaurant is located near a business hub or a party hub
+6,Opening Day of Restaurant,Date of the opening of the restaurant
+7,Facebook Popularity Quotient,"Out of 100, this is the popularity of the restaurant on Facebook"
+8,Endoresed By,This variable tells us what kind of celebrity endorses the restaurant
+9,Instagram Popularity Quotient,"Out of 100, this is the popularity of the restaurant on Instragram"
+10,Fire Audit,"This variable tells us whether the fire audit is succesfull in the restaurant. Here 1 means appropriate fire safety is present, 0 means appropriate fire safety is not present"
+11,Liquor License Obtained,"This variable tells us whether the restaurant has liquour license or not. 1 means liquor license is present, 0 means otherwise"
+12,Situated in a Multi Complex,"This variable tells us whether the restaurant is situated in a multi complex. 1 means the restaurant is present in the multi complex, 0 means otherwise"
+13,Dedicated Parking,"This variable tells us whether the restaurant has a dedicated parking space. 1 means dedicated parking space is present, 0 means otherwise"
+14,Open Sitting Available,"This variable tells us whether the restaurant has opening sitting. 1 means opening sitting is present, 0 means otherwise"
+15,Resturant Tier,This variable tells us what tier the restaurant belongs to.
+16,Restaurant Type,This variable tells us the type of restaurant.
+17,Restaurant Theme,This variable tells us the theme of the restaurant by which it is designed.
+18,Restaurant Zomato Rating,"This variable tells us the Zomato rating of the restaurant on a scale of 1 to 5, 5 being the highest."
+19,Restaurant City Tier,This variable tells us the tier that restaurant belongs to
+20,Order Wait Time,"This variable rates the waiting time of the restaurant on a scale of 1 to 10, 10 being the highest"
+21,Staff Responsivness,"This variable rates the staff responsive of the restaurant on a scale of 1 to 8, 8 being the highest"
+22,Value for Money,"This variable rates the staff responsive of the restaurant on a scale of 1 to 7, 7 being the highest"
+23,Hygiene Rating,"This is the Hygiene Rating of restuarent on a scale of 1 to 10,10 being the highest"
+24,Food Rating,"This is the food Rating of restuarent on a scale of 1 to 10, 10 being the highest"
+25,Overall Restaurant Rating,"This is the overall restaurant rating on a scale of 1 to 10, 10 being the highest"
+26,Live Music Rating,"This variable gives an indication about the satisfacation from the Live musicon a scale of 1 to 10, 10 being the highest, NA means restuarant do not offer Live music"
+27,Comedy Gigs Rating,"This variable gives an indication about the satisfacation from the Comedy Show on a scale of 1 to 6, 6 being the highest NA means restuarant do not offer any comedy gigs"
+28,Value Deals Rating,"This variable gives an indication about the satisfacation from the Value Deals on a scale of 1 to 7, 7 being the highest NA means restuarant do not offer any value deals"
+29,Live Sports Rating,"This variable gives an indication about the satisfacation from the Live screening of Sports on a scale of 1 to 6, 6 being the highestNA means restuarant do not have live screening"
+30,Ambience,"This variable gives us an indication about the ambience feel level rating of the restuarant on a scale of 0 to 10, 10 being the highest"
+31,Lively,"This variable rates the lively atmosphere of the restaurant on a scale of 1 to 10, 10 being the highest"
+32,Service,This variable gives us an indication about the service satisfaction level rating of the restuarant. Here Rating of 10 means highly Satisfied from the service and 0 means otherwise
+33,Comfortablility,"This variable gives us an indication about the comfort level rating of the restuarent on a scale of 0 to 10, 10 being the highest"
+34,Privacy,"This variable gives us an indication about the privacy level of the restuarant on a scale of 0 to 10, 10 being the highest"

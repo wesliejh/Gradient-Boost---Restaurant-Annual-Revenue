@@ -1,0 +1,501 @@
+Registration Number,Cuisine,City,Restaurant Location,Opening Day of Restaurant,Facebook Popularity Quotient,Endoresed By,Instagram Popularity Quotient,Fire Audit,Liquor License Obtained,Situated in a Multi Complex,Dedicated Parking,Open Sitting Available,Resturant Tier,Restaurant Type,Restaurant Theme,Restaurant Zomato Rating,Restaurant City Tier,Order Wait Time,Staff Responsivness,Value for Money,Hygiene Rating,Food Rating,Overall Restaurant Rating,Live Music Rating,Comedy Gigs Rating,Value Deals Rating,Live Sports Rating,Ambience,Lively,Service,Comfortablility,Privacy
+20001,"tibetan,italian",Bangalore,Near Business Hub,13-07-2010,78,Tier A Celebrity,69,1,1,1,1,0,2,Bar,Greek,3,0,10,5,3,5,8,6,NA,2,NA,NA,5,2,2,6,0
+20002,"tibetan,italian",Hyderabad,Near Party Hub,5/9/11,89.17,Not Specific,96,1,1,1,1,1,2,Bar,Nature,4,0,10,4,5,6,8,9,3,NA,NA,6,7,8,5,1,8
+20003,"algerian,belgian",Hyderabad,Near Party Hub,12/4/11,84,Not Specific,86,1,1,1,0,1,2,Bar,Greek,2,0,6,5,5,6,9,6,3,NA,NA,NA,9,7,5,1,5
+20004,"tibetan,greek",-1,Near Party Hub,16-01-2005,79.38,Not Specific,74.4,0,1,1,1,1,2,Gastro Bar,90's,3,0,10,5,5,5,9,9,6,NA,NA,NA,6,7,6,4,7
+20005,"cuban,british",Pune ,Near Party Hub,10/11/08,84.67,Not Specific,86.46,1,1,1,0,0,1,Bar,Mise En,4,1,7,5,5,7,8,NA,NA,NA,NA,NA,4,4,7,7,3
+20006,"japanese,thai",-1,Near Party Hub,15-05-2009,66.85,Not Specific,59.11,1,1,0,1,0,2,Bar,90's,4,1,1,5,6,6,8,10,4,NA,NA,NA,7,6,3,4,5
+20007,"welsh,thai",Hyderabad,Near Business Hub,3/6/08,77.2,Tier A Celebrity,53.4,1,1,1,0,0,2,Bar,Arabian,3,0,5,5,6,6,10,10,4,NA,NA,NA,8,7,5,5,9
+20008,"british,japanese",-1,Near Party Hub,1/6/03,62,Not Specific,64,1,1,1,1,1,2,Caffee,Arabian,3,1,2,4,4,4,9,10,4,NA,NA,NA,10,8,7,4,5
+20009,"tibetan,greek",New Delhi,Near Party Hub,21-03-2011,82.6,Tier A Celebrity,76,1,1,1,1,1,2,Bar,Greek,3,1,6,5,5,4,8,9,3,NA,NA,NA,4,5,6,8,4
+20010,"british,japanese",Bangalore,Near Party Hub,13-04-2011,58.17,Not Specific,64.31,1,1,1,1,1,2,Bar,Arabian,2,1,7,4,3,5,9,6,4,NA,2,NA,7,7,5,5,5
+20011,"irish,belgian",MEERUT,Near Party Hub,10/10/10,84.16,Tier A Celebrity,73.4,1,1,1,1,0,2,Bar,Nature,3,0,10,5,4,5,7,9,NA,NA,NA,5,6,5,6,8,6
+20012,"tibetan,greek",Chennai,Near Party Hub,4/9/11,92.3,Not Specific,83.6,1,1,1,0,1,2,Bar,Greek,4,0,3,6,5,6,9,8,3,NA,NA,NA,7,7,5,1,7
+20013,"peruvian,cuban",Hyderabad,Near Business Hub,30-08-2008,88,Not Specific,88,0,1,1,1,0,2,Bar,Greek,3,0,9,3,4,6,5,9,2,4,NA,NA,8,7,6,2,8
+20014,"algerian,korean",-1,Near Party Hub,15-08-2010,80.64,Not Specific,75.5,0,1,1,0,1,2,Bar,Molino,2,1,7,6,5,4,10,7,NA,NA,NA,NA,4,6,4,4,5
+20015,"welsh,thai",Lucknow,Near Party Hub,5/9/13,85.83,Not Specific,69.33,1,1,0,1,1,2,Bar,Greek,2,0,6,3,4,5,9,7,NA,2,NA,NA,7,7,7,4,7
+20016,"indian,irish",Bangalore,Near Party Hub,21-08-2007,88.64,Not Specific,65.16,1,1,1,1,1,2,Bar,Arabian,3,1,3,4,4,4,5,9,5,NA,NA,NA,9,6,5,4,3
+20017,"tibetan,greek",Gurgaon,Near Business Hub,13-01-2009,89.8,Tier A Celebrity,83.8,1,1,0,1,1,2,Bar,Arabian,3,0,3,5,4,5,7,9,5,NA,NA,NA,6,7,6,4,10
+20018,"welsh,thai",New Delhi,Near Party Hub,6/1/12,68,Not Specific,65.6,1,1,1,1,1,2,Bar,Arabian,2,0,5,4,5,3,8,10,4,NA,4,NA,6,5,3,1,4
+20019,"peruvian,cuban",-1,Near Party Hub,3/8/09,83,Tier A Celebrity,85,0,1,1,1,1,2,Bar,Arabian,2,0,10,6,5,5,10,9,5,NA,NA,NA,6,5,4,3,2
+20020,"indian,irish",Navi Mumbai,Near Party Hub,15-08-2010,63.4,Not Specific,66.6,1,1,1,1,1,2,Bar,Arabian,2,0,6,5,5,5,8,10,4,NA,NA,NA,4,7,6,6,7
+20021,"british,japanese",GURAGAON,Near Party Hub,30-09-2011,78,Tier A Celebrity,68,0,1,1,1,1,2,Bar,Greek,2,0,7,5,4,2,6,NA,2,NA,NA,NA,10,8,3,4,9
+20022,"tibetan,italian",Ahmedabad,Near Party Hub,3/12/10,91,Not Specific,83,1,1,0,1,1,2,Bar,Arabian,3,0,2,4,4,5,9,9,5,NA,NA,NA,9,8,5,3,6
+20023,"welsh,thai",-1,Near Party Hub,7/8/08,63,Not Specific,66,1,1,0,1,1,2,Bar,Arabian,2,0,4,4,5,5,9,7,3,NA,NA,NA,7,7,5,5,6
+20024,"algerian,korean",-1,Near Party Hub,28-11-2011,70,Tier A Celebrity,66,0,1,1,1,1,2,Bar,Greek,2,0,9,5,5,5,5,7,4,2,NA,NA,9,10,7,0,7
+20025,"indian,irish",Bangalore,Near Party Hub,11/1/09,84,Not Specific,78.13,1,1,1,0,1,2,Bar,Arabian,2,0,5,5,4,5,9,10,4,NA,NA,NA,8,8,5,5,6
+20026,"algerian,belgian",Nagpur,Near Party Hub,5/8/09,63.6,Not Specific,60.8,1,1,1,1,1,2,Bar,Arabian,2,0,7,4,4,4,9,8,3,NA,3,NA,9,9,8,4,9
+20027,"indian,irish",Mumbai,Near Party Hub,27-09-2010,89.5,Not Specific,91.8,1,1,1,1,1,2,Bar,Nature,3,0,5,6,6,5,5,8,4,NA,NA,4,8,6,6,6,6
+20028,"tibetan,italian",Hyderabad,Near Business Hub,23-07-2010,76,Not Specific,88,1,1,1,1,1,2,Bar,Arabian,2,1,8,5,6,6,10,9,5,NA,NA,NA,6,7,6,3,7
+20029,"chinese,salvadorian",-1,Near Party Hub,8/1/10,84.8,Tier A Celebrity,81.4,1,1,0,1,0,2,Bar,Greek,4,0,8,4,5,6,6,7,NA,3,NA,NA,7,7,5,2,8
+20030,"peruvian,cuban",Coimbatore,Near Business Hub,10/8/11,91,Not Specific,90,1,1,1,1,1,2,Bar,90's,3,0,10,3,4,4,5,10,3,NA,4,NA,5,6,6,4,7
+20031,"chinese,salvadorian",patna,Near Party Hub,5/7/07,71,Tier A Celebrity,63.3,1,1,1,0,1,2,Bar,Greek,3,0,8,6,6,6,8,9,6,5,NA,NA,8,7,4,3,6
+20032,"cuban,british",-1,Near Party Hub,16-12-2009,78,Tier A Celebrity,76,1,1,1,1,1,2,Bar,Arabian,2,0,9,6,5,8,8,9,6,NA,NA,NA,6,5,1,4,4
+20033,"algerian,korean",Hyderabad,Near Party Hub,15-06-2010,88.1,Not Specific,91.1,1,1,1,1,1,2,Bar,Greek,2,1,5,5,4,5,6,7,3,2,NA,NA,6,8,6,5,8
+20034,"tibetan,greek",Hyderabad,Near Party Hub,2/5/08,75.83,Not Specific,92.3,1,1,1,0,1,2,Bar,90's,2,0,3,3,3,5,6,8,4,NA,NA,NA,6,8,7,3,5
+20035,"turkish,sapnish",Noida,Near Business Hub,7/12/10,81,Tier A Celebrity,76,1,1,0,1,1,2,Bar,90's,3,0,6,4,5,4,7,7,NA,NA,NA,NA,6,6,6,5,7
+20036,"tibetan,greek",Bangalore ,Near Party Hub,9/11/08,65,Not Specific,50,0,1,1,1,1,2,Caffee,Arabian,3,1,10,6,4,4,9,10,4,NA,NA,NA,5,5,5,6,6
+20037,"tibetan,greek",Gurgaon,Near Party Hub,30-05-2009,76.66,Not Specific,80,1,1,1,1,1,2,Bar,Arabian,3,0,8,5,5,7,5,9,5,NA,NA,NA,5,6,3,3,4
+20038,"indian,irish",-1,Near Party Hub,21-03-2010,71.85,Tier A Celebrity,70.6,1,1,1,1,1,2,Bar,90's,3,0,7,6,5,6,8,9,5,NA,NA,NA,7,6,6,4,7
+20039,"welsh,thai",kolkata,Near Party Hub,10/1/10,76.2,Tier A Celebrity,68.3,1,1,0,0,0,2,Bar,Greek,2,0,10,5,4,3,7,8,NA,3,NA,NA,1,3,3,5,2
+20040,"tibetan,greek",Bangalore,Near Party Hub,5/9/08,57.7,Not Specific,54.8,1,1,1,1,0,2,Bar,Arabian,3,0,4,3,4,3,6,8,4,NA,NA,NA,2,2,6,5,5
+20041,"japanese,thai",-1,Near Business Hub,11/11/11,88.4,Not Specific,92.9,0,1,1,1,0,2,Bar,Greek,2,1,4,4,4,5,5,10,3,3,NA,NA,8,8,7,4,7
+20042,"british,japanese",Pune,Near Business Hub,13-12-2010,66.2,Tier A Celebrity,65.4,1,1,1,1,1,2,Bar,90's,3,0,10,5,5,5,8,8,4,NA,NA,NA,8,6,7,7,8
+20043,"indian,irish",-1,Near Business Hub,11/9/10,69.33,Not Specific,70.08,1,1,1,1,1,2,Bar,Greek,3,0,1,5,5,5,5,9,NA,4,NA,NA,4,8,5,4,6
+20044,"chinese,salvadorian",-1,Near Party Hub,30-11-2007,62.67,Not Specific,65.4,1,1,1,1,1,2,Bar,Arabian,2,0,2,3,4,5,7,8,3,NA,NA,NA,8,6,5,7,8
+20045,"tibetan,greek",Chennai,Near Party Hub,17-01-2008,87,Not Specific,90.6,1,1,1,1,1,2,Bar,90's,2,0,3,3,5,5,7,8,4,NA,NA,NA,8,7,6,5,7
+20046,"indian,irish",-1,Near Party Hub,29-06-2010,65,Not Specific,77,0,0,1,1,1,2,Caffee,Arabian,3,0,5,3,4,3,8,10,4,NA,4,NA,4,5,5,3,6
+20047,"tibetan,italian",-1,Near Party Hub,18-07-2009,56,Not Specific,65,1,1,1,1,1,2,Bar,Greek,2,0,6,4,4,5,7,9,NA,4,NA,NA,8,6,4,5,5
+20048,"tibetan,greek",Mumbai,Near Party Hub,4/11/09,77.92,Not Specific,83.6,1,1,1,1,0,2,Bar,Greek,5,0,5,4,4,5,9,9,4,5,NA,NA,6,10,7,2,8
+20049,"indian,irish",Hubli,Near Party Hub,6/7/09,75,Not Specific,70,1,1,1,0,1,2,Bar,Parsi,2,0,4,5,4,5,7,NA,NA,NA,NA,NA,8,7,6,1,5
+20050,"tibetan,greek",Noida,Near Party Hub,23-07-2009,67,Tier A Celebrity,68.2,0,1,1,1,1,2,Caffee,Arabian,2,0,4,4,4,5,10,9,5,NA,NA,NA,4,7,6,3,8
+20051,"algerian,belgian",Pune,Near Party Hub,20-03-2010,88,Tier A Celebrity,78,1,1,1,1,1,2,Bar,Greek,4,0,6,5,6,5,9,9,5,4,NA,NA,0,2,3,5,3
+20052,"tibetan,greek",Mumbai,Near Party Hub,28-11-2008,77.6,Not Specific,82.6,1,1,1,1,0,2,Bar,Nature,3,0,8,5,5,6,6,10,NA,NA,NA,4,8,7,5,4,6
+20053,"turkish,sapnish",Mumbai,Near Party Hub,21-02-2008,55.33,Not Specific,62.4,1,1,1,1,1,2,Bar,Greek,2,0,6,4,4,4,6,7,2,2,NA,NA,6,7,7,6,6
+20054,"cuban,british",-1,Near Business Hub,5/2/12,81.6,Tier A Celebrity,79.8,1,1,1,1,1,2,Bar,Greek,3,0,9,5,5,6,5,7,3,2,NA,NA,7,9,7,7,9
+20055,"tibetan,greek",Bangalore,Near Party Hub,29-10-2009,92.3,Tier A Celebrity,87.4,1,1,1,1,1,2,Bar,90's,4,0,6,3,4,4,5,10,4,NA,NA,NA,7,8,3,6,7
+20056,"tibetan,greek",Noida,Near Party Hub,10/2/08,74,Not Specific,72,1,1,1,1,1,2,Gastro Bar,90's,3,0,10,4,4,5,8,8,4,NA,NA,NA,6,8,8,4,6
+20057,"algerian,algerian",Lucknow,Near Party Hub,5/10/11,70.8,Not Specific,68.4,1,1,1,0,1,2,Bar,Greek,3,0,10,4,6,5,8,10,4,NA,NA,NA,9,5,3,5,6
+20058,"tibetan,greek",Mumbai,Near Party Hub,2/9/11,78.33,Tier A Celebrity,61.6,1,1,1,1,1,1,Bar,90's,3,0,2,5,4,4,8,10,4,NA,4,NA,4,4,6,4,4
+20059,"hawaiian,latvian",-1,Near Party Hub,17-07-2009,81.5,Not Specific,77.2,0,1,1,0,1,2,Bar,Greek,3,1,2,4,6,6,5,9,NA,4,NA,NA,6,5,2,5,6
+20060,"japanese,thai",Hyderabad,Near Business Hub,21-01-2010,86.5,Not Specific,93.5,1,1,1,0,1,2,Bar,Greek,3,0,9,5,4,4,7,10,NA,NA,2,NA,10,8,6,2,7
+20061,"algerian,korean",Guwahati,Near Party Hub,26-01-2005,70.5,Not Specific,54.5,1,1,1,1,1,2,Bar,Arabian,1,0,3,3,3,3,5,6,3,NA,NA,NA,7,6,7,8,6
+20062,"tibetan,greek",Navi Mumbai,Near Party Hub,2/11/10,81.38,Not Specific,71.33,1,1,1,1,1,2,Bar,90's,2,0,6,5,6,5,6,10,4,NA,NA,NA,9,8,6,3,9
+20063,"polish,jewish",Chennai,Near Party Hub,16-09-2011,84,Not Specific,88.75,1,1,0,1,1,2,Bar,90's,3,1,5,6,5,5,9,9,5,NA,5,NA,4,7,3,4,7
+20064,"peruvian,cuban",Mysore,Near Party Hub,11/3/08,91.4,Not Specific,93,1,1,1,1,1,2,Bar,Arabian,3,0,1,7,5,6,10,9,5,NA,NA,NA,6,6,6,7,6
+20065,"tibetan,greek",New Delhi,Near Party Hub,25-07-2009,73.1,Not Specific,68.3,1,1,1,1,0,2,Bar,90's,2,0,9,5,5,6,8,10,4,NA,NA,NA,7,7,7,4,8
+20066,"tibetan,greek",hyderabad,Near Business Hub,17-08-2012,87,Not Specific,96,1,1,1,0,1,2,Bar,Greek,4,0,10,5,5,6,6,9,4,4,NA,NA,8,8,7,3,9
+20067,"peruvian,cuban",Chennai,Near Party Hub,5/2/10,75.8,Tier A Celebrity,77.6,1,1,1,1,1,2,Bar,90's,2,1,1,5,5,3,8,10,3,NA,4,NA,9,6,4,3,7
+20068,"algerian,korean",Jaipur,Near Party Hub,10/2/10,64,Not Specific,61,1,1,0,0,1,2,Bar,Greek,2,0,5,3,4,4,9,8,3,3,3,NA,7,7,7,1,9
+20069,"polish,jewish",-1,Near Party Hub,4/6/10,70.8,Tier A Celebrity,65.2,0,1,0,1,1,2,Bar,Greek,3,0,10,4,5,5,9,7,3,3,NA,NA,6,4,7,4,4
+20070,"japanese,thai",Jaipur,Near Party Hub,21-10-2007,83.46,Not Specific,74,1,1,1,1,1,2,Gastro Bar,Arabian,4,0,2,5,5,5,6,9,6,NA,NA,NA,1,9,8,1,5
+20071,"chinese,salvadorian",New Delhi,Near Party Hub,20-09-2011,83.6,Tier A Celebrity,73.4,1,1,0,1,1,2,Bar,Arabian,2,0,10,5,4,5,10,9,4,NA,5,NA,9,10,9,0,4
+20072,"indian,irish",Noida,Near Party Hub,2/7/04,62,Local Celebrity,59.4,0,1,1,0,1,2,Bar,90's,2,0,3,3,3,3,5,6,3,NA,NA,NA,5,3,5,7,4
+20073,"welsh,thai",Bangalore,Near Party Hub,15-09-2011,68.6,Not Specific,69.4,1,1,0,1,1,2,Bar,Greek,3,0,1,4,4,5,8,6,4,2,NA,NA,4,5,1,4,8
+20074,"tibetan,greek",mohali,Near Party Hub,31-08-2010,79.8,Tier A Celebrity,66.8,0,1,1,1,1,2,Bar,Arabian,3,0,4,5,5,3,9,9,3,NA,5,NA,5,7,8,5,6
+20075,"turkish,nigerian",Bangalore,Near Party Hub,17-03-2011,89.2,Tier A Celebrity,69,0,1,1,1,1,2,Bar,Arabian,2,0,3,5,5,3,9,6,2,NA,2,NA,4,4,6,8,6
+20076,"tibetan,greek",-1,Near Business Hub,14-10-2012,82,Not Specific,86,1,1,0,1,0,2,Bar,Arabian,4,0,3,5,5,3,10,9,5,NA,NA,NA,7,8,7,4,9
+20077,"welsh,thai",Gurgaon,Near Party Hub,30-04-2011,85.76,Not Specific,90.83,1,1,0,1,1,2,Bar,Carbone,4,1,5,6,5,6,7,NA,4,NA,NA,NA,10,7,5,2,7
+20078,"tibetan,italian",Hyderabad,Near Party Hub,29-12-2008,74.5,Not Specific,79.7,1,1,1,1,1,2,Bar,Greek,3,1,7,4,4,5,8,8,4,3,NA,NA,5,6,5,7,6
+20079,"indian,irish",Pune,Near Business Hub,22-11-2008,84,Not Specific,71.83,1,1,1,1,1,2,Bar,Greek,2,0,4,4,5,4,5,6,NA,2,NA,NA,5,8,7,3,8
+20080,"indian,irish",Bangalore,Near Party Hub,17-01-2008,66,Not Specific,62,1,1,1,1,0,2,Caffee,Arabian,3,0,8,3,3,2,5,8,4,NA,NA,NA,9,9,6,5,7
+20081,"algerian,korean",Hyderabad,Near Party Hub,16-11-2010,89.5,Not Specific,94.9,1,1,1,0,1,2,Bar,Greek,3,1,10,6,5,6,6,9,4,4,NA,NA,9,9,6,3,7
+20082,"japanese,thai",Meerut,Near Party Hub,17-08-2008,71,Tier A Celebrity,74.2,1,1,1,1,1,2,Bar,90's,2,0,2,5,4,4,7,6,3,NA,NA,NA,2,3,3,3,1
+20083,"british,japanese",Banglore,Near Party Hub,9/4/12,79.6,Not Specific,93.9,1,1,1,1,0,2,Bar,Arabian,3,0,10,3,5,7,5,7,5,NA,3,NA,4,5,2,8,6
+20084,"welsh,thai",Noida,Near Party Hub,13-08-2009,91.6,Tier A Celebrity,85.8,1,1,1,1,0,2,Bar,Greek,3,0,9,5,5,6,8,7,NA,3,NA,NA,5,10,7,4,7
+20085,"tibetan,greek",Ahmedabad,Near Party Hub,11/12/10,85.6,Tier A Celebrity,82,1,1,0,1,1,2,Bar,90's,2,0,10,6,6,5,9,10,4,NA,4,NA,6,7,2,4,7
+20086,"peruvian,cuban",Pune,Near Business Hub,2/12/08,81,Tier A Celebrity,77,1,1,1,1,1,2,Bar,Greek,3,0,9,5,4,5,5,6,3,2,NA,NA,6,6,4,6,9
+20087,"tibetan,greek",-1,Near Business Hub,31-07-2010,65,Tier A Celebrity,58,1,1,1,1,0,2,Bar,90's,3,0,6,4,4,4,6,10,4,NA,NA,NA,6,8,5,6,6
+20088,"turkish,sapnish",Pune,Near Party Hub,12/9/09,87.3,Not Specific,82,1,1,1,1,1,2,Bar,Arabian,3,0,2,4,5,5,6,10,4,NA,NA,NA,6,2,6,4,4
+20089,"tibetan,greek",Noida,Near Party Hub,16-08-2006,77.4,Not Specific,73.4,1,1,1,1,0,1,Bar,Arabian,3,1,4,4,4,4,7,10,4,NA,NA,NA,6,5,2,2,8
+20090,"tibetan,italian",Bangalore,Near Party Hub,5/8/11,82.4,Tier A Celebrity,71.4,1,1,0,1,1,2,Bar,90's,3,0,4,4,4,5,9,10,4,NA,4,NA,7,5,6,6,5
+20091,"turkish,sapnish",Noida,Near Party Hub,30-11-2010,83.6,Tier A Celebrity,81,1,1,1,1,1,1,Bar,Arabian,3,1,7,6,4,4,10,7,3,NA,3,NA,9,9,8,2,7
+20092,"chinese,salvadorian",Noida,Near Party Hub,3/12/10,64,Tier A Celebrity,62,0,1,1,1,1,2,Bar,Arabian,3,0,3,3,4,3,6,7,4,NA,3,NA,6,6,1,7,6
+20093,"tibetan,greek",Noida,Near Party Hub,31-05-2010,72.2,Not Specific,71.8,1,1,0,1,1,2,Bar,Arabian,3,0,6,3,4,3,5,10,5,NA,4,NA,3,4,3,5,2
+20094,"hawaiian,latvian",Banglore,Near Business Hub,12/1/11,62.6,Not Specific,74.6,1,1,1,1,1,2,Bar,Arabian,2,0,6,3,4,3,6,10,NA,NA,4,NA,8,6,6,5,5
+20095,"tibetan,greek",-1,Near Party Hub,27-11-2010,89.23,Not Specific,88,0,1,1,1,1,2,Bar,Parsi,3,1,4,6,6,7,7,9,NA,4,NA,NA,5,4,7,4,5
+20096,"welsh,thai",Navi Mumbai,Near Business Hub,19-09-2007,81.2,Not Specific,76.3,0,1,0,1,1,2,Caffee,Arabian,5,1,1,4,3,4,10,10,4,NA,NA,NA,6,8,5,7,5
+20097,"swedish,greek",-1,Near Business Hub,20-07-2012,79,Tier A Celebrity,91.2,1,1,0,1,1,2,Bar,Greek,3,1,1,6,6,5,5,8,3,3,NA,NA,6,7,2,6,5
+20098,"swedish,greek",Hyderabad,Near Business Hub,14-07-2009,88,Not Specific,96,1,1,1,1,1,2,Bar,Greek,2,1,4,4,3,4,5,NA,2,NA,NA,NA,6,8,6,4,8
+20099,"welsh,thai",Pune,Near Party Hub,27-06-2009,85.33,Not Specific,54.83,1,1,1,1,1,2,Caffee,Arabian,4,0,6,4,6,5,7,9,5,NA,NA,NA,5,8,6,3,9
+20100,"tibetan,greek",new dehli,Near Party Hub,6/1/10,76,Not Specific,73,0,1,1,0,1,2,Bar,Greek,2,0,2,4,4,5,9,7,4,2,NA,NA,6,8,4,4,5
+20101,"tibetan,greek",Chennai,Near Party Hub,9/9/12,89,Not Specific,95.7,1,1,0,0,1,2,Bar,Arabian,3,0,10,5,5,4,6,10,4,NA,4,NA,6,8,6,5,5
+20102,"chinese,salvadorian",Bangalore,Near Party Hub,9/11/08,69.4,Tier A Celebrity,65.12,0,1,1,1,1,2,Bar,Arabian,2,1,7,5,6,4,6,10,4,NA,NA,NA,5,8,4,4,5
+20103,"tibetan,greek",Kolkata,Near Party Hub,15-10-2009,83.25,Not Specific,79.8,1,1,1,1,1,2,Bar,Chinese,3,1,10,3,6,6,9,9,NA,4,NA,NA,4,4,5,4,2
+20104,"hawaiian,latvian",sambalpur,Near Business Hub,20-06-2009,70.3,Not Specific,63.2,0,1,1,0,1,2,Bar,Nature,2,0,10,3,4,4,10,9,NA,NA,NA,4,6,8,8,7,7
+20105,"tibetan,greek",Hyderabad,Near Party Hub,31-10-2010,81.5,Tier A Celebrity,83.16,1,1,0,1,1,1,Bar,Chinese,3,0,1,6,5,5,5,10,NA,NA,NA,NA,3,6,5,3,5
+20106,"algerian,korean",-1,Near Business Hub,11/1/10,88.8,Tier A Celebrity,76.8,1,1,1,1,1,1,Bar,Greek,3,1,1,6,6,7,8,9,NA,4,NA,NA,5,8,4,5,7
+20107,"indian,irish",Kolkata,Near Party Hub,17-11-2009,79.06,Not Specific,76,1,1,0,0,1,2,Bar,Arabian,3,0,7,6,5,5,9,NA,NA,NA,NA,NA,6,7,4,5,6
+20108,"welsh,thai",Noida,Near Party Hub,24-07-2011,82,Tier A Celebrity,76.6,1,1,1,0,1,2,Bar,Arabian,3,0,3,4,5,6,9,9,5,NA,NA,NA,7,8,3,3,3
+20109,"cuban,british",Chennai,Near Party Hub,9/10/11,93.8,Not Specific,84,0,1,1,0,0,2,Bar,Greek,3,1,2,5,5,6,8,9,4,4,NA,NA,9,8,6,1,5
+20110,"turkish,nigerian",-1,Near Business Hub,7/11/09,89.2,Tier A Celebrity,68.8,1,1,1,0,1,2,Bar,Arabian,2,0,8,3,3,3,10,6,3,NA,2,NA,4,8,5,6,7
+20111,"swedish,greek",Chandigarh,Near Business Hub,18-12-2011,82.66,Tier A Celebrity,69.4,1,1,1,1,1,2,Bar,90's,3,0,5,7,6,5,6,7,4,NA,3,NA,10,10,10,0,8
+20112,"indian,irish",Pune,Near Party Hub,1/1/11,73.2,Tier A Celebrity,76.8,1,1,1,1,1,2,Bar,Arabian,3,0,9,5,6,7,9,9,5,NA,NA,NA,7,7,5,2,1
+20113,"irish,belgian",Chennai,Near Party Hub,9/7/10,89.9,Not Specific,84.5,0,1,1,1,1,2,Bar,Greek,2,0,1,6,4,4,7,NA,4,NA,NA,NA,9,8,6,3,7
+20114,"tibetan,greek",Gurgaon,Near Party Hub,25-09-2010,89.6,Tier A Celebrity,86.2,1,1,1,1,1,2,Bar,Arabian,4,0,5,6,6,5,5,9,5,NA,4,NA,6,8,7,3,7
+20115,"welsh,thai",Hyderabad,Near Business Hub,31-05-2010,87,Not Specific,91.5,1,1,1,1,1,2,Bar,Arabian,3,1,5,6,5,5,8,9,6,NA,NA,NA,7,8,7,3,6
+20116,"tibetan,italian",Jaipur,Near Party Hub,7/10/08,86,Tier A Celebrity,87.4,1,1,1,1,0,2,Bar,Parsi,5,0,2,6,5,6,6,9,5,5,NA,NA,4,6,2,7,4
+20117,"algerian,korean",Chennai,Near Business Hub,31-07-2008,61.2,Not Specific,68.3,1,1,1,1,0,2,Bar,90's,3,1,9,4,3,1,8,7,3,NA,NA,NA,8,6,4,7,6
+20118,"tibetan,greek",Noida,Near Business Hub,19-08-2008,81.2,Tier A Celebrity,82.8,0,1,1,1,1,2,Bar,Arabian,3,0,10,5,6,5,7,10,4,NA,NA,NA,8,9,7,3,8
+20119,"algerian,belgian",Indore,Near Party Hub,6/8/08,68.65,Tier A Celebrity,60.4,1,1,1,1,1,2,Bar,90's,2,0,9,5,4,3,5,6,3,NA,NA,NA,4,7,4,3,3
+20120,"turkish,nigerian",Bangalore,Near Party Hub,29-03-2005,73,Tier A Celebrity,61.5,1,1,1,1,1,2,Bar,Arabian,3,1,5,4,5,6,10,9,5,NA,NA,NA,4,8,6,5,8
+20121,"irish,belgian",Ahmedabad,Near Business Hub,23-12-2010,86.92,Not Specific,73.8,1,1,1,1,1,2,Bar,90's,3,0,8,3,4,2,10,10,4,NA,NA,NA,8,7,6,1,6
+20122,"tibetan,greek",Hyderabad,Near Party Hub,15-12-2009,72.3,Not Specific,82.6,1,1,0,1,0,2,Bar,90's,2,0,4,4,4,5,5,7,3,NA,NA,NA,7,6,6,4,7
+20123,"japanese,thai",Bhubaneswar,Near Business Hub,14-05-2010,84.4,Tier A Celebrity,79.4,1,1,1,1,1,2,Bar,Parsi,4,0,6,5,5,5,10,7,NA,3,NA,NA,9,7,8,3,8
+20124,"welsh,thai",NEW DELHI,Near Party Hub,5/8/10,80,Tier A Celebrity,55,1,1,1,0,1,2,Bar,Arabian,2,0,2,6,4,3,7,10,4,NA,4,NA,4,8,8,1,9
+20125,"tibetan,greek",Gurgaon,Near Party Hub,27-04-2009,88.6,Tier A Celebrity,86.8,1,1,1,1,1,1,Bar,Arabian,3,0,2,7,5,6,5,9,6,NA,NA,NA,8,7,4,3,7
+20126,"welsh,thai",Ambala City,Near Party Hub,11/12/11,64.4,Tier A Celebrity,79.2,1,1,0,1,1,2,Bar,Arabian,3,0,5,5,5,5,7,9,5,NA,NA,NA,6,7,6,4,7
+20127,"welsh,thai",Noida,Near Party Hub,13-02-2011,74.28,Tier A Celebrity,78.16,1,1,1,1,1,2,Bar,Arabian,2,0,7,7,5,5,9,8,4,NA,3,NA,8,7,7,4,7
+20128,"nigerian,cajun",Lucknow,Near Party Hub,1/9/11,72,Not Specific,63,1,1,1,1,1,2,Bar,Greek,2,0,8,3,4,4,7,7,NA,2,NA,NA,0,0,0,3,0
+20129,"british,japanese",Bangalore,Near Business Hub,31-03-2011,89.8,Tier A Celebrity,87.2,1,1,1,1,1,2,Bar,Arabian,3,0,1,4,6,4,9,10,5,NA,4,NA,6,5,3,3,4
+20130,"indian,irish",Mumbai,Near Party Hub,6/10/09,84,Not Specific,82.53,1,1,1,1,1,2,Bar,90's,2,0,3,5,4,5,9,9,5,NA,NA,NA,9,8,5,4,8
+20131,"peruvian,cuban",Noida,Near Party Hub,10/1/10,74,Tier A Celebrity,66,1,1,0,0,1,2,Bar,Greek,2,0,8,7,4,4,7,10,NA,NA,NA,NA,7,8,4,2,5
+20132,"british,belgian", Mumbai,Near Party Hub,26-06-2010,63,Not Specific,66,1,1,1,1,1,2,Bar,Moonrise,2,0,4,4,4,4,7,NA,NA,5,NA,NA,9,9,6,4,8
+20133,"tibetan,italian",Chennai,Near Business Hub,20-04-2012,78,Tier A Celebrity,80,1,1,0,1,1,2,Bar,Belise,3,1,8,6,5,3,7,NA,4,NA,3,NA,7,9,7,1,6
+20134,"nigerian,cajun",Noida,Near Party Hub,29-05-2010,86,Tier A Celebrity,76,1,1,1,1,1,2,Bar,Arabian,2,0,7,7,4,5,7,9,6,NA,NA,NA,8,8,6,5,7
+20135,"welsh,thai",Gurgaon,Near Party Hub,12/1/09,73.4,Tier A Celebrity,79.4,1,1,0,1,1,2,Bar,Arabian,3,0,2,5,5,6,7,8,4,NA,NA,NA,8,10,7,4,7
+20136,"tibetan,greek",New Delhi ,Near Party Hub,10/4/06,52.09,Tier A Celebrity,55.5,1,1,1,0,1,2,Bar,90's,2,0,7,3,3,4,5,7,3,NA,NA,NA,6,7,6,6,5
+20137,"british,japanese",Noida,Near Party Hub,1/1/08,83.4,Tier A Celebrity,78,1,1,1,1,1,2,Bar,90's,3,0,7,4,4,4,5,10,4,NA,NA,NA,5,7,5,4,4
+20138,"turkish,nigerian",Bangalore,Near Business Hub,7/1/11,93.6,Not Specific,69.8,1,1,1,1,1,2,Bar,Arabian,2,0,8,6,4,6,6,9,3,NA,5,NA,8,9,6,7,8
+20139,"swedish,greek",Pune,Near Party Hub,4/3/09,85,Not Specific,85.88,1,1,1,0,1,2,Bar,Parsi,2,0,5,5,4,5,6,10,3,3,NA,NA,4,10,4,4,6
+20140,"tibetan,greek",Hyderabad,Near Party Hub,5/9/11,79.9,Not Specific,89.4,1,1,1,1,1,2,Bar,Greek,3,1,3,3,5,5,8,NA,3,NA,4,NA,6,8,6,4,8
+20141,"tibetan,greek",Noida,Near Business Hub,21-09-2010,87,Tier A Celebrity,86,1,1,0,0,1,2,Bar,Arabian,3,0,3,6,5,5,7,9,5,NA,NA,NA,7,6,6,4,3
+20142,"polish,jewish",Bangalore,Near Party Hub,15-05-2009,80,Not Specific,70,1,1,1,1,1,2,Bar,Parsi,2,0,10,5,4,3,9,9,4,4,NA,NA,4,8,2,4,7
+20143,"welsh,thai",hyderabad,Near Party Hub,7/7/10,74,Tier A Celebrity,88,1,1,1,1,0,2,Bar,Arabian,3,1,7,5,5,5,6,9,5,NA,NA,NA,8,10,7,3,7
+20144,"polish,jewish",Gurgaon ,Near Party Hub,20-12-2009,54,Local Celebrity,63,1,1,1,1,1,2,Bar,90's,2,0,10,3,3,1,8,6,2,NA,NA,NA,5,6,7,7,7
+20145,"japanese,thai",Trivandrum,Near Party Hub,30-07-2011,67.25,Not Specific,71.8,1,1,1,1,1,2,Bar,Arabian,4,0,9,4,5,4,10,10,4,NA,4,NA,9,6,3,4,7
+20146,"hawaiian,latvian",-1,Near Business Hub,9/11/10,81.2,Tier A Celebrity,72.6,0,1,1,1,1,2,Bar,Greek,4,0,3,5,5,7,7,7,4,2,NA,NA,8,6,6,4,7
+20147,"tibetan,greek",Noida,Near Party Hub,22-05-2010,82.6,Tier A Celebrity,79.8,1,1,0,1,1,1,Bar,90's,4,1,9,6,6,5,5,9,5,NA,NA,NA,6,6,5,4,2
+20148,"tibetan,greek",Chennai,Near Party Hub,21-07-2011,86.16,Not Specific,89,1,1,1,1,1,2,Bar,Arabian,3,0,1,6,4,3,8,10,4,NA,NA,NA,9,7,5,2,9
+20149,"algerian,korean",Chandigarh,Near Party Hub,23-10-2011,88,Tier A Celebrity,83,1,1,0,1,0,2,Bar,Petit,3,0,3,4,4,5,5,8,3,NA,NA,3,6,1,4,8,2
+20150,"chinese,salvadorian",Bangalore,Near Party Hub,24-07-2011,90.56,Not Specific,87.83,1,1,1,1,0,2,Bar,Greek,2,1,7,4,4,4,8,9,NA,NA,2,NA,6,7,5,3,7
+20151,"peruvian,cuban",Bangalore,Near Business Hub,24-03-2009,91,Not Specific,88,1,1,1,1,1,2,Bar,Greek,4,0,1,5,4,5,7,7,NA,2,NA,NA,8,8,6,2,5
+20152,"british,belgian",New Delhi,Near Party Hub,30-05-2011,66.7,Not Specific,54.2,1,1,0,1,1,2,Bar,Picante,2,0,1,4,4,5,10,7,NA,2,NA,NA,7,7,6,4,7
+20153,"peruvian,cuban",Delhi,Near Party Hub,7/3/12,76,Tier A Celebrity,66.66,0,1,0,1,1,2,Bar,Nature,2,0,5,5,4,4,8,6,3,NA,NA,2,2,5,6,5,2
+20154,"tibetan,italian",Hyderabad,Near Business Hub,23-08-2011,90,Not Specific,93,1,1,1,1,1,2,Bar,Greek,3,1,9,4,4,5,8,9,3,4,NA,NA,6,8,7,6,6
+20155,"indian,irish",Kolkata,Near Party Hub,21-08-2011,91,Tier A Celebrity,91.2,1,1,1,1,1,2,Bar,Greek,4,0,10,6,6,5,8,10,4,3,NA,NA,8,8,5,3,4
+20156,"algerian,algerian",Ongole,Near Party Hub,26-03-2011,64,Not Specific,73.2,1,1,1,1,1,2,Bar,Arabian,3,1,8,5,4,4,6,8,3,NA,NA,NA,9,9,5,2,9
+20157,"tibetan,greek",Mangalore,Near Party Hub,10/7/10,92.6,Tier A Celebrity,79.6,1,1,1,1,0,2,Bar,Greek,3,0,2,5,5,5,5,6,NA,2,NA,NA,9,10,7,4,6
+20158,"indian,irish",Mohali,Near Party Hub,5/4/10,89.4,Tier A Celebrity,82.4,1,1,1,1,0,2,Bar,Arabian,3,0,7,6,6,6,9,9,5,NA,NA,NA,6,7,3,3,8
+20159,"turkish,nigerian",Kolkata,Near Party Hub,30-10-2008,71.37,Not Specific,60.8,1,1,0,1,1,2,Gastro Bar,Moonrise,4,1,2,6,6,5,9,NA,5,NA,5,NA,7,5,5,4,6
+20160,"welsh,thai",Pune,Near Party Hub,11/11/08,83,Not Specific,85,1,1,1,1,1,2,Bar,Arabian,2,1,7,4,4,4,5,10,4,NA,NA,NA,7,5,5,6,5
+20161,"tibetan,italian",Hyderabad,Near Business Hub,10/5/11,86,Not Specific,96,1,1,1,1,1,2,Bar,Greek,3,1,3,5,6,7,7,6,4,2,2,NA,7,5,3,6,4
+20162,"tibetan,italian",Chennai,Near Party Hub,31-08-2011,80.4,Tier A Celebrity,80.6,1,1,0,1,1,2,Bar,Greek,2,1,1,5,4,5,10,NA,2,NA,3,NA,6,7,1,3,5
+20163,"tibetan,greek", bangalore,Near Business Hub,28-05-2007,89.89,Not Specific,75,0,1,0,1,1,2,Bar,Greek,3,1,7,3,3,4,8,6,3,1,NA,NA,4,7,5,7,5
+20164,"turkish,nigerian",Bangalore,Near Party Hub,25-09-2008,83.8,Tier A Celebrity,63.4,0,1,1,1,1,2,Bar,90's,2,1,2,6,6,5,5,9,5,NA,NA,NA,5,8,4,2,5
+20165,"indian,irish",Pune,Near Party Hub,14-01-2011,78.25,Not Specific,74.25,0,1,0,1,1,2,Bar,Parsi,3,1,5,5,6,5,9,10,4,NA,NA,NA,7,6,6,1,6
+20166,"welsh,thai",-1,Near Party Hub,27-05-2006,77.2,Tier A Celebrity,72.2,1,1,1,1,1,2,Bar,Parsi,2,1,9,4,2,5,8,10,4,3,NA,3,1,6,6,3,5
+20167,"british,japanese",Bangalore,Near Party Hub,15-01-2011,67,Not Specific,60.44,1,1,0,1,1,2,Bar,Arabian,3,0,3,4,4,3,7,7,4,NA,3,NA,10,10,7,5,8
+20168,"welsh,thai",Dehradun,Near Party Hub,27-04-2010,67,Not Specific,78,0,1,1,1,1,2,Bar,Arabian,4,0,5,4,5,5,8,9,5,NA,6,NA,3,2,1,4,1
+20169,"indian,irish",Navi Mumbai,Near Party Hub,20-11-2009,83.33,Not Specific,85.6,1,1,1,0,1,2,Bar,Parsi,3,0,4,6,6,5,6,9,4,4,NA,NA,4,6,5,6,6
+20170,"welsh,thai",Bangalore,Near Party Hub,26-11-2010,78.3,Not Specific,70.67,1,1,1,1,1,2,Bar,Arabian,2,0,1,6,4,4,10,9,5,NA,4,NA,7,8,9,3,9
+20171,"tibetan,greek",Bangalore ,Near Party Hub,5/8/11,91.68,Not Specific,84,1,1,1,1,0,2,Bar,Arabian,3,1,4,5,5,5,6,10,7,NA,4,NA,8,8,9,0,9
+20172,"turkish,nigerian",-1,Near Party Hub,6/5/04,49.9,Not Specific,56.1,0,1,0,1,0,2,Bar,Arabian,2,0,2,4,4,5,6,10,4,NA,NA,NA,8,9,7,5,9
+20173,"welsh,thai",Thane,Near Party Hub,2/11/08,67.76,Not Specific,69.67,0,1,1,0,1,2,Bar,Parsi,2,0,6,3,5,5,8,9,NA,NA,3,NA,5,7,7,5,6
+20174,"tibetan,greek",Pune,Near Party Hub,23-12-2008,71.2,Tier A Celebrity,63.4,0,1,1,1,1,1,Bar,90's,3,1,9,5,4,4,8,8,4,NA,NA,NA,5,7,7,8,6
+20175,"nigerian,cajun",Chennai,Near Party Hub,4/9/07,78,Not Specific,85,1,1,1,1,0,2,Bar,Greek,3,0,10,4,3,3,7,NA,3,NA,NA,NA,7,8,6,6,7
+20176,"tibetan,greek",Chennai,Near Business Hub,15-04-2012,96.8,Tier A Celebrity,92.3,1,1,1,1,1,2,Bar,Parsi,4,0,4,6,5,6,8,9,4,4,NA,NA,7,8,6,3,9
+20177,"tibetan,greek",Gurgaon,Near Business Hub,31-12-2007,75.6,Not Specific,69.5,1,1,1,0,0,2,Bar,Greek,3,0,10,3,5,4,10,7,4,3,NA,NA,8,6,2,5,6
+20178,"tibetan,italian",Jaipur,Near Business Hub,3/3/10,74.9,Tier A Celebrity,62.9,1,1,1,0,1,2,Bar,90's,3,1,5,5,5,4,10,9,5,NA,NA,NA,7,4,6,7,4
+20179,"cuban,british",Bangalore,Near Business Hub,10/5/10,74.4,Not Specific,53.33,1,1,0,0,1,2,Bar,Delicio,2,1,8,4,5,4,8,10,4,NA,NA,NA,5,6,5,7,8
+20180,"tibetan,greek",Hyderabad,Near Business Hub,19-04-2010,89.7,Tier A Celebrity,86.7,0,1,1,1,1,2,Bar,90's,4,1,6,7,6,5,7,NA,NA,NA,NA,NA,7,9,6,4,8
+20181,"chinese,salvadorian",Chandigarh,Near Party Hub,11/11/08,88.2,Tier A Celebrity,77.8,1,1,1,1,1,1,Bar,Mise En,2,0,3,5,6,5,6,NA,NA,NA,NA,NA,4,8,4,4,7
+20182,"tibetan,greek",New Delhi,Near Business Hub,10/8/09,86,Tier A Celebrity,78,0,1,1,0,0,1,Bar,Greek,3,1,1,4,4,5,9,7,NA,2,NA,NA,7,9,6,4,6
+20183,"chinese,salvadorian",-1,Near Party Hub,19-02-2012,91.2,Not Specific,89,1,1,1,1,1,2,Bar,Nature,3,0,9,5,5,3,6,7,NA,NA,NA,3,6,8,2,5,4
+20184,"tibetan,greek",Navi Mumbai,Near Business Hub,25-09-2009,72,Tier A Celebrity,73,1,1,1,0,1,2,Bar,Arabian,3,0,4,4,4,4,8,10,4,NA,NA,NA,5,6,5,8,5
+20185,"tibetan,greek",Mumbai,Near Party Hub,22-02-2009,62,Not Specific,61,1,1,1,0,1,2,Bar,90's,2,1,10,5,3,3,9,7,3,NA,NA,NA,3,6,5,6,6
+20186,"algerian,korean",CHENNAI,Near Business Hub,8/4/13,93,Not Specific,91,1,1,1,1,1,2,Bar,90's,3,0,2,5,4,3,9,9,4,NA,4,NA,6,6,4,5,8
+20187,"turkish,nigerian",New Delhi,Near Party Hub,5/3/10,71,Tier A Celebrity,70,1,1,1,1,0,2,Bar,Arabian,2,0,8,4,5,3,10,6,3,NA,2,NA,8,9,6,2,5
+20188,"cuban,british",Pondicherry,Near Party Hub,2/8/10,84.2,Not Specific,81.25,0,1,1,0,1,2,Bar,Arabian,3,0,8,2,4,4,8,8,4,NA,NA,NA,7,5,5,7,5
+20189,"cuban,british",Coimbatore,Near Party Hub,20-12-2011,77.8,Not Specific,85.4,1,1,0,1,1,1,Bar,Arabian,2,0,9,7,5,5,5,10,4,NA,4,NA,7,7,6,7,2
+20190,"british,japanese",Pune,Near Party Hub,1/11/07,89.56,Not Specific,85,1,1,0,1,1,2,Bar,Greek,2,1,4,4,3,5,6,10,3,3,NA,NA,0,4,4,6,7
+20191,"algerian,korean",Jaipur,Near Business Hub,30-06-2010,83,Not Specific,73,0,1,1,1,1,2,Bar,Arabian,3,1,1,3,4,4,5,8,4,NA,NA,NA,8,5,8,7,1
+20192,"british,japanese",Bangalore,Near Party Hub,18-06-2007,61.86,Not Specific,77.56,1,1,1,1,1,2,Bar,Parsi,3,0,9,3,4,3,7,7,3,3,NA,NA,7,6,7,6,4
+20193,"tibetan,italian",RAE BARELI,Near Party Hub,5/8/11,83,Tier A Celebrity,83,1,1,1,1,1,2,Bar,Arabian,2,0,7,6,5,6,10,8,4,NA,3,NA,8,8,8,3,7
+20194,"japanese,thai",Bangalore,Near Business Hub,13-12-2007,78.08,Not Specific,62.5,1,0,1,1,1,2,Caffee,Arabian,4,0,8,4,5,3,7,10,4,NA,NA,NA,8,8,4,2,7
+20195,"polish,jewish",Bangalore,Near Business Hub,21-01-2011,72.3,Not Specific,79.8,1,1,1,0,1,2,Bar,Greek,4,0,9,4,4,4,8,7,NA,3,NA,NA,6,4,1,2,6
+20196,"algerian,belgian",Faridabad,Near Party Hub,5/7/05,69,Tier A Celebrity,52,1,1,1,1,1,2,Bar,Chinese,2,0,9,4,4,4,8,9,NA,4,NA,NA,4,9,7,1,8
+20197,"chinese,salvadorian",Noida,Near Party Hub,19-11-2007,63.2,Tier A Celebrity,63.2,1,1,1,1,1,1,Bar,90's,2,0,8,4,3,5,9,7,4,NA,3,NA,5,3,3,5,4
+20198,"welsh,thai",Gurgaon,Near Party Hub,2/5/11,80,Tier A Celebrity,60,1,1,1,1,1,2,Bar,Greek,3,0,6,6,5,3,7,10,NA,3,NA,NA,6,9,8,7,7
+20199,"japanese,thai",Pune,Near Business Hub,31-12-2006,72.16,Not Specific,57.8,1,1,1,1,1,2,Bar,Arabian,2,0,8,4,5,4,5,8,4,NA,NA,NA,7,7,5,3,7
+20200,"polish,jewish",New Delhi,Near Party Hub,19-02-2004,70,Tier A Celebrity,83.3,1,1,1,1,0,2,Caffee,Arabian,2,0,5,3,5,6,6,9,5,NA,NA,NA,7,8,6,3,5
+20201,"peruvian,cuban",Chennai,Near Business Hub,9/4/10,84,Not Specific,94,1,1,1,1,0,2,Bar,Arabian,4,1,9,5,5,5,6,9,5,NA,NA,NA,6,8,2,5,5
+20202,"turkish,nigerian",Bangalore,Near Party Hub,2/7/10,93.6,Not Specific,83,1,1,1,1,1,2,Bar,Greek,2,1,7,6,5,5,5,NA,5,NA,4,NA,8,7,7,1,5
+20203,"polish,jewish",Bangalore,Near Business Hub,29-08-2009,63,Not Specific,61,1,1,1,1,1,2,Bar,Greek,3,1,8,3,3,3,6,9,NA,4,NA,NA,8,7,7,6,6
+20204,"peruvian,cuban",Bangalore,Near Party Hub,16-02-2008,65,Not Specific,66,0,1,1,1,1,2,Bar,90's,2,1,1,5,4,4,5,8,4,NA,NA,NA,5,6,9,7,7
+20205,"british,japanese",-1,Near Business Hub,19-11-2010,84,Not Specific,72,1,1,1,1,1,2,Bar,Arabian,3,1,4,5,4,2,10,8,3,NA,3,NA,8,9,6,7,9
+20206,"swedish,greek",-1,Near Party Hub,24-07-2011,93.2,Tier A Celebrity,91.4,1,1,1,1,1,1,Bar,Nature,4,0,4,5,5,8,7,10,NA,NA,NA,4,8,8,7,4,6
+20207,"tibetan,greek",kolkata,Near Business Hub,17-07-2008,67.4,Tier A Celebrity,65.6,0,1,1,1,1,2,Bar,Chinese,3,0,1,7,5,5,6,NA,3,NA,NA,NA,7,9,6,2,7
+20208,"british,japanese",Hyderabad ,Near Party Hub,2/5/11,74.8,Tier A Celebrity,80.1,1,1,1,1,0,2,Bar,Arabian,3,0,4,6,4,5,8,10,4,NA,NA,NA,5,7,6,5,7
+20209,"tibetan,greek",Mumbai,Near Business Hub,3/9/10,73.8,Tier A Celebrity,66.6,1,1,1,1,0,2,Bar,Arabian,3,0,10,5,6,5,6,9,4,NA,5,NA,7,8,6,4,6
+20210,"algerian,korean",-1,Near Business Hub,5/11/12,83.66,Not Specific,89.4,1,1,0,0,1,2,Bar,Greek,3,0,6,5,5,4,5,8,3,3,NA,NA,8,9,6,5,9
+20211,"british,japanese",-1,Near Party Hub,28-12-2010,65,Tier A Celebrity,65,1,1,0,1,1,2,Bar,Arabian,3,0,6,4,5,4,5,7,3,NA,NA,NA,9,8,7,8,8
+20212,"japanese,thai",Gurgaon,Near Party Hub,25-06-2013,81,Tier A Celebrity,80.2,1,1,0,0,0,2,Bar,Arabian,3,0,1,3,5,6,9,9,5,NA,5,NA,4,7,8,10,7
+20213,"tibetan,greek",Chennai,Near Party Hub,7/7/08,88.33,Not Specific,94.5,1,1,1,1,1,2,Bar,Greek,2,1,1,4,4,5,7,8,4,3,NA,NA,5,4,5,7,6
+20214,"british,japanese",Gurgaon,Near Business Hub,18-07-2008,76,Tier A Celebrity,58,0,1,1,1,0,2,Caffee,Arabian,3,0,6,4,5,3,5,7,4,NA,3,NA,8,8,6,2,7
+20215,"welsh,thai",New Delhi,Near Party Hub,11/5/07,60,Tier A Celebrity,70,1,1,1,1,1,2,Bar,Arabian,1,0,3,4,3,4,7,6,2,3,NA,NA,3,5,5,7,7
+20216,"welsh,thai",Bhubaneswar,Near Party Hub,22-01-2008,56,Not Specific,62,0,1,1,1,1,2,Bar,Arabian,2,0,8,3,3,3,7,7,3,3,NA,NA,7,5,5,5,5
+20217,"welsh,thai",Pune,Near Party Hub,5/7/11,87.88,Not Specific,89,1,1,1,1,1,2,Bar,Arabian,3,1,8,5,4,6,10,9,5,NA,NA,NA,9,9,6,1,4
+20218,"british,japanese",Pune,Near Party Hub,27-04-2008,81,Tier A Celebrity,79,1,1,1,1,1,2,Bar,Greek,4,0,6,3,6,7,10,10,NA,3,NA,NA,6,7,7,3,7
+20219,"tibetan,greek",Gurgaon,Near Business Hub,9/5/09,90.4,Tier A Celebrity,87,1,1,1,1,1,2,Bar,Arabian,3,0,3,5,5,6,9,9,5,NA,NA,NA,7,7,6,2,5
+20220,"irish,belgian",Chandigarh,Near Party Hub,1/6/11,84,Tier A Celebrity,74.8,1,1,1,1,1,1,Bar,Arabian,2,0,10,6,5,6,7,9,6,NA,5,NA,3,7,2,3,5
+20221,"tibetan,greek",New Delhi,Near Party Hub,9/2/10,62,Not Specific,71,0,1,0,0,1,2,Bar,Arabian,2,0,2,4,3,4,8,9,5,NA,NA,NA,10,10,7,4,8
+20222,"welsh,thai",Phagwara,Near Business Hub,22-12-2008,73,Not Specific,64,0,1,1,1,1,2,Buffet/Family Restaurant,Arabian,3,0,9,4,3,3,5,9,4,NA,4,NA,6,8,7,5,7
+20223,"turkish,nigerian",latur (Maharashtra ),Near Party Hub,28-05-2007,54.4,Tier A Celebrity,59,1,1,1,0,0,2,Bar,Greek,1,1,7,4,3,4,6,8,NA,3,NA,NA,7,8,6,4,8
+20224,"indian,irish",sampla,Near Party Hub,13-07-2011,68.4,Tier A Celebrity,74.6,0,1,1,1,0,2,Bar,Greek,3,0,2,5,5,5,7,7,NA,2,NA,NA,7,9,6,4,9
+20225,"cuban,british",Bangalore,Near Party Hub,15-11-2003,62,Not Specific,62,1,0,1,1,0,2,Caffee,Arabian,3,0,9,5,4,5,5,9,5,NA,NA,NA,7,7,2,3,4
+20226,"indian,irish",Secunderabad,Near Party Hub,5/6/08,83,Not Specific,66,0,0,1,1,1,2,Caffee,Arabian,4,0,6,5,5,5,7,9,5,NA,NA,NA,6,8,7,2,9
+20227,"tibetan,italian",Bangalore,Near Party Hub,29-05-2008,77,Not Specific,74,1,1,1,1,1,2,Bar,Arabian,4,0,10,5,4,5,10,10,4,NA,4,NA,7,6,3,3,6
+20228,"algerian,belgian",-1,Near Business Hub,3/6/11,69,Not Specific,69.12,0,1,1,1,1,1,Bar,English,2,0,8,4,5,6,5,NA,3,NA,3,NA,6,5,4,3,7
+20229,"tibetan,greek",Bangalore,Near Party Hub,18-11-2010,74.88,Not Specific,82.55,1,1,1,1,0,2,Bar,Arabian,4,0,7,5,4,5,9,7,4,NA,3,NA,7,7,8,7,8
+20230,"tibetan,greek",Pune,Near Party Hub,7/1/12,82.25,Not Specific,76.83,1,1,1,1,1,2,Bar,Greek,4,0,6,5,4,5,5,6,NA,2,NA,NA,8,7,6,5,6
+20231,"welsh,thai",Bangalore,Near Party Hub,29-09-2011,93.44,Not Specific,60.33,1,1,1,0,1,2,Bar,Delicio,1,0,6,6,4,4,9,6,5,NA,2,NA,6,3,7,3,6
+20232,"british,japanese",Indore,Near Party Hub,25-08-2008,86.2,Not Specific,75.11,0,1,1,1,1,2,Bar,Arabian,3,0,1,4,5,5,10,9,5,NA,NA,NA,6,6,2,2,6
+20233,"tibetan,italian",Bangalore,Near Party Hub,28-11-2011,92.2,Tier A Celebrity,88.6,1,1,1,1,1,2,Bar,Greek,3,0,10,5,6,7,7,8,4,NA,NA,NA,8,7,6,3,6
+20234,"algerian,belgian",jAipur,Near Party Hub,9/9/10,87.4,Tier A Celebrity,85.6,1,1,0,1,1,2,Bar,Molino,4,0,3,6,6,7,9,10,NA,NA,NA,NA,8,5,6,2,1
+20235,"tibetan,greek",Bangalore,Near Business Hub,8/2/11,85,Tier A Celebrity,69,1,1,1,1,0,2,Bar,90's,3,0,10,6,4,4,5,7,3,NA,NA,NA,8,6,5,5,6
+20236,"welsh,thai",pune,Near Party Hub,20-01-2012,76,Not Specific,89.8,1,1,1,1,0,2,Bar,Arabian,2,0,4,5,5,6,7,NA,NA,NA,NA,NA,8,8,6,4,8
+20237,"japanese,thai",Bangalore,Near Party Hub,19-07-2008,67,Tier A Celebrity,81,1,1,1,1,1,2,Bar,Greek,2,1,4,5,4,5,8,7,4,2,NA,NA,5,5,5,5,4
+20238,"indian,irish",Bangalore,Near Party Hub,17-01-2011,70.08,Not Specific,61.5,1,1,1,1,1,2,Bar,Delicio,2,1,2,4,5,4,10,8,4,NA,NA,NA,0,4,5,7,4
+20239,"algerian,korean",New Delhi,Near Party Hub,31-03-2011,71.8,Tier A Celebrity,57.8,1,1,1,1,1,1,Bar,Greek,3,0,5,5,4,3,6,8,4,3,NA,NA,5,5,7,8,5
+20240,"british,japanese",Pune,Near Party Hub,22-11-2008,77,Not Specific,82.2,1,1,1,1,1,2,Bar,Arabian,3,0,9,5,4,6,8,9,5,NA,NA,NA,2,7,3,3,7
+20241,"irish,belgian",Mysore,Near Party Hub,8/2/09,52,Not Specific,67,1,0,0,1,0,2,Caffee,Arabian,4,1,8,4,4,4,9,9,5,NA,NA,NA,2,1,0,7,1
+20242,"cuban,british",Hyderabad,Near Party Hub,9/8/10,83.33,Not Specific,92.2,1,1,1,1,0,2,Bar,Greek,3,1,5,5,5,5,9,6,4,2,NA,NA,9,9,7,0,9
+20243,"british,japanese",Bangalore,Near Business Hub,26-06-2008,94.24,Not Specific,89.67,1,1,1,0,1,2,Bar,Arabian,3,1,6,5,4,4,6,9,5,NA,NA,NA,6,8,7,7,7
+20244,"tibetan,italian",New Delhi,Near Party Hub,28-06-2010,60,Not Specific,63,1,1,0,1,1,2,Bar,Greek,1,0,6,4,2,3,6,6,NA,1,NA,NA,5,4,6,7,4
+20245,"british,japanese",Noida,Near Party Hub,10/1/09,72.15,Not Specific,67.1,1,1,1,1,0,2,Bar,Greek,3,0,10,5,4,6,6,10,4,3,NA,NA,3,4,5,4,6
+20246,"cuban,british",-1,Near Party Hub,12/11/09,64,Not Specific,64,1,1,1,0,1,2,Bar,90's,3,0,5,3,5,3,10,9,6,NA,4,NA,4,5,4,4,3
+20247,"welsh,thai",BANGLORE,Near Party Hub,10/3/10,75,Not Specific,81.1,1,1,1,1,1,2,Bar,90's,3,0,8,3,3,2,5,7,2,NA,3,NA,4,4,4,5,4
+20248,"tibetan,greek",Gurgaon,Near Party Hub,19-07-2008,73,Tier A Celebrity,64,1,1,1,1,0,2,Bar,90's,2,0,2,5,4,5,6,8,4,NA,NA,NA,5,4,8,7,6
+20249,"british,japanese",Hyderabad,Near Party Hub,31-05-2012,69,Not Specific,83.6,1,1,1,0,1,2,Bar,Arabian,2,1,5,4,4,5,10,6,4,NA,2,NA,9,7,4,5,6
+20250,"algerian,belgian",Haldia,Near Party Hub,23-10-2010,92.83,Tier A Celebrity,88,1,1,1,0,0,2,Bar,Chinese,3,0,9,6,6,6,9,9,NA,NA,NA,NA,7,7,5,4,7
+20251,"swedish,greek",Gurgaon,Near Party Hub,7/4/11,87.4,Tier A Celebrity,85.2,1,1,1,1,1,1,Bar,Greek,3,1,2,6,6,6,5,8,4,3,NA,NA,4,4,6,6,2
+20252,"japanese,thai",Hyderabad,Near Party Hub,12/8/05,64.8,Tier A Celebrity,62.4,1,1,1,1,1,1,Bar,Arabian,3,1,3,4,4,5,8,9,5,NA,NA,NA,6,7,6,5,8
+20253,"welsh,thai",Noida,Near Party Hub,13-08-2007,59.7,Not Specific,54,1,1,1,1,1,2,Caffee,Arabian,4,1,9,4,4,5,7,9,5,NA,NA,NA,4,5,5,7,4
+20254,"cuban,british",Gurgaon,Near Business Hub,7/8/12,92,Tier A Celebrity,85.6,1,1,1,1,1,2,Bar,Arabian,5,0,6,5,4,6,5,NA,NA,NA,NA,NA,4,8,4,4,8
+20255,"british,japanese",-1,Near Party Hub,17-12-2009,63,Tier A Celebrity,74,0,1,0,1,1,2,Bar,Delicio,1,1,9,5,5,4,6,10,4,NA,NA,NA,4,2,4,6,3
+20256,"british,japanese",Pune,Near Party Hub,12/1/11,82,Not Specific,62,1,1,1,1,0,2,Bar,Arabian,2,0,10,6,5,5,10,9,4,NA,5,NA,9,8,9,3,7
+20257,"algerian,belgian",Mainpuri,Near Party Hub,29-05-2010,71.5,Not Specific,60,1,1,0,1,1,2,Bar,Arabian,2,0,10,4,3,4,6,7,3,NA,NA,NA,8,9,4,4,5
+20258,"tibetan,greek",Bangalore,Near Party Hub,14-05-2012,83.6,Not Specific,89.91,0,1,1,1,1,2,Bar,90's,4,0,3,5,6,7,9,10,4,NA,4,NA,10,8,9,0,6
+20259,"tibetan,italian",Hyderabad,Near Party Hub,25-10-2008,88,Not Specific,93.5,0,1,1,1,1,2,Bar,Arabian,3,1,8,4,5,6,8,9,5,NA,NA,NA,3,8,5,3,6
+20260,"welsh,thai",New Delhi,Near Party Hub,2/6/10,65,Not Specific,68,1,1,1,1,1,2,Bar,Parsi,2,0,4,4,5,7,7,8,4,3,NA,NA,6,7,4,1,6
+20261,"tibetan,greek",Bangalore,Near Party Hub,26-01-2011,80.4,Not Specific,70.2,1,1,0,1,0,2,Bar,Arabian,3,0,4,4,4,6,5,9,5,NA,5,NA,6,7,6,2,6
+20262,"welsh,thai",Noida,Near Party Hub,22-10-2011,55.33,Not Specific,60.6,0,1,1,1,1,2,Caffee,Arabian,3,0,1,6,5,3,5,10,4,NA,4,NA,8,9,2,1,7
+20263,"indian,irish",bangalore ,Near Party Hub,9/12/08,77.8,Tier A Celebrity,60.6,0,1,0,1,1,2,Bar,Arabian,2,0,7,6,6,5,8,9,5,NA,NA,NA,8,9,6,2,6
+20264,"algerian,belgian",Gorakhpur,Near Party Hub,14-11-2009,56,Not Specific,75,1,1,0,0,1,2,Gastro Bar,Arabian,3,0,4,4,3,3,10,7,3,NA,NA,NA,5,10,6,6,8
+20265,"tibetan,italian",Chennai,Near Party Hub,10/3/10,86,Not Specific,77,1,1,0,1,1,2,Bar,Greek,4,0,7,3,4,3,8,8,3,NA,NA,NA,8,7,5,5,9
+20266,"tibetan,greek",Chennai,Near Business Hub,27-07-2012,81,Not Specific,87.9,0,1,1,1,0,2,Bar,90's,3,1,8,4,4,3,10,7,4,NA,3,NA,9,7,5,5,8
+20267,"indian,irish",Chennai,Near Party Hub,2/10/09,82,Not Specific,72,1,1,1,0,1,2,Bar,Greek,2,1,2,4,4,4,7,10,1,3,NA,4,4,9,8,10,7
+20268,"tibetan,greek",Kanpur,Near Business Hub,2/12/10,85,Not Specific,70,1,1,0,0,0,2,Bar,Arabian,3,0,9,4,4,4,9,9,5,NA,NA,NA,9,9,8,6,7
+20269,"tibetan,greek",-1,Near Business Hub,27-02-2010,69,Tier A Celebrity,62.33,1,1,1,1,1,1,Bar,Arabian,3,1,10,6,5,5,10,9,4,NA,5,NA,5,8,7,4,8
+20270,"peruvian,cuban",Noida,Near Party Hub,1/10/12,82.14,Tier A Celebrity,81.26,1,1,1,1,1,2,Bar,Arabian,2,0,1,6,6,5,8,9,5,NA,NA,NA,4,6,3,5,7
+20271,"tibetan,greek",New Delhi,Near Party Hub,8/3/08,83,Tier A Celebrity,77.2,0,1,1,1,1,1,Bar,Arabian,3,1,8,6,4,5,10,9,5,NA,NA,NA,5,9,1,7,8
+20272,"british,japanese",Chennai,Near Party Hub,24-12-2010,80.5,Not Specific,93.9,0,1,1,1,1,2,Bar,Greek,3,1,7,5,4,6,10,8,3,3,NA,NA,3,4,5,6,4
+20273,"cuban,british",-1,Near Business Hub,13-03-2011,80.16,Not Specific,91.4,1,1,1,1,1,2,Bar,Arabian,3,1,1,5,4,5,7,8,4,NA,3,NA,8,8,4,5,7
+20274,"chinese,salvadorian",Bhopal,Near Business Hub,18-10-2006,65,Tier A Celebrity,54,1,1,1,1,1,1,Bar,Ambiance,2,0,6,4,4,4,7,NA,NA,NA,NA,NA,8,6,3,3,8
+20275,"japanese,thai",Mysore,Near Party Hub,25-03-2011,86.6,Tier A Celebrity,89,0,1,1,0,1,2,Bar,Nature,3,0,1,5,4,5,9,10,NA,NA,NA,4,5,8,8,6,9
+20276,"tibetan,greek",Pune,Near Party Hub,17-01-2010,83.75,Not Specific,74.8,1,1,1,1,1,2,Bar,Greek,3,1,6,6,6,6,6,10,NA,NA,NA,NA,5,6,1,5,5
+20277,"chinese,salvadorian",-1,Near Party Hub,9/4/09,78,Not Specific,69,1,1,1,1,1,2,Bar,Greek,3,1,2,3,4,4,9,6,3,2,NA,NA,6,5,5,7,6
+20278,"tibetan,italian",Kolkata,Near Party Hub,29-05-2006,78,Not Specific,62,1,1,1,1,1,2,Caffee,Arabian,4,0,7,3,5,6,9,9,5,NA,NA,NA,8,4,9,8,8
+20279,"hawaiian,latvian",BANGALORE ,Near Party Hub,15-02-2009,78.4,Not Specific,74.2,1,1,1,1,0,2,Bar,90's,2,0,2,3,5,3,6,9,5,NA,NA,NA,6,8,2,6,6
+20280,"british,japanese",Mumbai,Near Party Hub,11/9/08,85,Not Specific,73.8,0,1,1,1,1,2,Bar,Greek,3,0,6,5,4,6,9,9,4,4,NA,NA,5,4,5,7,9
+20281,"tibetan,italian",Coimbatore,Near Business Hub,3/12/09,74,Not Specific,75,0,1,1,1,1,2,Bar,90's,3,0,5,3,4,2,5,8,5,NA,3,NA,9,6,6,3,9
+20282,"indian,irish",Pune,Near Business Hub,17-06-2010,79,Not Specific,75.69,1,1,1,1,0,1,Bar,90's,2,0,9,5,5,5,7,8,5,NA,3,NA,7,9,6,5,10
+20283,"welsh,thai",Bangalore,Near Business Hub,20-06-2010,73,Tier A Celebrity,74.6,1,1,1,0,1,2,Bar,Arabian,3,0,6,4,4,4,5,7,3,NA,3,NA,0,0,1,2,0
+20284,"turkish,sapnish",Mumbai,Near Business Hub,21-02-2010,80.8,Not Specific,60.5,1,1,1,1,1,2,Bar,Arabian,2,1,6,5,5,5,10,9,5,NA,4,NA,9,10,8,0,6
+20285,"indian,irish",Indore,Near Party Hub,1/9/07,53,Not Specific,49,1,1,1,1,1,2,Caffee,Arabian,3,0,2,3,4,3,8,7,3,NA,3,NA,8,7,7,5,8
+20286,"british,japanese",Gurgaon,Near Party Hub,29-01-2009,78.2,Tier A Celebrity,81.8,1,1,0,1,0,2,Bar,Arabian,3,0,7,4,5,5,5,10,4,NA,NA,NA,9,6,6,2,8
+20287,"tibetan,italian",Jaipur,Near Party Hub,30-11-2010,79,Not Specific,75.69,1,1,0,1,1,2,Bar,Arabian,2,1,8,4,4,4,9,8,3,NA,3,NA,7,8,7,4,9
+20288,"indian,irish",ranchi,Near Party Hub,25-10-2011,82.87,Not Specific,60.42,1,1,1,0,1,2,Bar,Molino,2,0,3,4,4,5,9,7,NA,NA,NA,NA,6,4,4,7,2
+20289,"turkish,sapnish",Greater Noida,Near Party Hub,9/4/04,75.1,Not Specific,63.9,1,1,1,1,1,2,Bar,Arabian,2,0,10,4,4,5,9,7,3,NA,NA,NA,6,7,2,5,8
+20290,"hawaiian,latvian",Mumbai,Near Business Hub,30-11-2006,62.26,Not Specific,78.88,0,1,1,1,1,2,Bar,Parsi,2,1,2,5,3,4,10,9,NA,5,NA,NA,9,5,4,5,5
+20291,"tibetan,greek",Mumbai,Near Business Hub,13-03-2008,78.8,Not Specific,82.2,1,1,1,1,1,2,Bar,Arabian,2,0,3,5,5,5,7,10,4,NA,NA,NA,6,8,5,3,8
+20292,"welsh,thai",Hyderabad,Near Party Hub,27-12-2010,64.2,Tier A Celebrity,90.7,1,1,0,1,1,2,Bar,Greek,4,1,4,5,6,7,6,9,5,4,NA,NA,8,5,5,5,7
+20293,"indian,irish",Mysore,Near Party Hub,17-09-2011,80.64,Not Specific,76.5,1,1,1,1,1,2,Bar,Nature,2,0,2,5,6,4,5,9,NA,NA,NA,4,6,6,6,4,7
+20294,"indian,irish",-1,Near Party Hub,23-01-2010,84.8,Tier A Celebrity,83,0,1,1,1,1,2,Bar,Greek,2,0,6,6,6,6,5,10,4,3,NA,NA,8,9,8,2,8
+20295,"british,japanese",Gurgaon,Near Business Hub,4/9/12,89,Tier A Celebrity,80,1,1,1,1,1,2,Bar,Parsi,3,0,9,6,5,6,7,9,NA,4,NA,NA,9,8,5,5,10
+20296,"chinese,salvadorian",Noida,Near Business Hub,27-07-2011,80.2,Tier A Celebrity,74.8,1,1,1,1,1,2,Bar,90's,3,0,1,5,5,4,9,10,4,NA,NA,NA,7,8,3,3,9
+20297,"algerian,korean",Noida,Near Business Hub,15-08-2012,62,Tier A Celebrity,53.2,1,1,1,1,1,2,Bar,Greek,2,0,8,4,4,2,8,6,NA,1,NA,NA,5,3,2,4,1
+20298,"welsh,thai",Greater Noida,Near Party Hub,29-06-2010,78.6,Tier A Celebrity,68.4,1,1,1,0,1,2,Bar,90's,3,0,8,6,4,6,9,10,4,NA,NA,NA,6,7,8,6,7
+20299,"british,japanese",Bangalore,Near Business Hub,16-01-2010,85,Not Specific,93.4,1,1,0,1,0,2,Bar,Arabian,3,1,2,5,6,5,8,10,4,NA,NA,NA,6,9,5,4,7
+20300,"turkish,sapnish",Pune,Near Party Hub,12/2/11,78.6,Tier A Celebrity,74.8,1,1,1,0,1,2,Bar,Arabian,3,0,3,5,5,4,10,9,5,NA,4,NA,6,8,7,5,9
+20301,"algerian,algerian",Noida,Near Party Hub,27-06-2009,64,Not Specific,60.01,0,1,1,1,1,2,Bar,Greek,2,0,10,5,4,2,10,6,NA,1,NA,NA,10,8,9,4,9
+20302,"tibetan,greek",Bangalore,Near Business Hub,19-05-2010,90.33,Not Specific,88.6,0,1,1,1,1,2,Bar,Arabian,2,0,9,7,5,4,9,10,4,NA,NA,NA,8,9,5,2,8
+20303,"turkish,sapnish",Navi Mumbai,Near Business Hub,9/9/11,64.2,Tier A Celebrity,64.1,1,1,1,1,1,2,Bar,90's,3,0,7,5,5,5,5,9,4,NA,5,NA,7,7,6,5,7
+20304,"turkish,sapnish",Kolkata,Near Party Hub,6/7/11,77,Not Specific,69,1,1,1,1,1,2,Bar,Greek,4,0,7,4,5,6,8,NA,3,NA,NA,NA,8,8,6,1,8
+20305,"tibetan,greek",Noida,Near Party Hub,3/11/09,70.8,Tier A Celebrity,64,1,1,1,1,1,1,Bar,Arabian,2,1,6,4,5,5,8,10,4,NA,4,NA,6,6,8,5,5
+20306,"algerian,korean",Rajkot,Near Party Hub,17-06-2009,73,Not Specific,54,1,1,1,1,1,2,Bar,Molino,3,0,6,4,3,5,10,9,NA,NA,NA,NA,7,5,7,6,6
+20307,"tibetan,greek",Pune,Near Party Hub,27-02-2012,86.14,Not Specific,76,1,1,1,1,1,2,Bar,Parsi,2,0,6,7,6,6,6,10,NA,3,NA,NA,3,7,4,8,7
+20308,"welsh,thai",Pune,Near Party Hub,30-11-2012,58.6,Tier A Celebrity,72,1,1,1,1,1,2,Bar,Arabian,1,0,8,6,4,3,8,8,4,NA,3,NA,2,8,6,5,7
+20309,"welsh,thai",Lucknow,Near Party Hub,14-04-2009,77,Tier A Celebrity,82,1,1,1,1,1,2,Caffee,Arabian,4,0,8,4,4,5,9,NA,NA,NA,NA,NA,3,6,2,2,3
+20310,"turkish,nigerian",karnal,Near Business Hub,14-03-2010,89.6,Tier A Celebrity,69.6,1,1,0,1,1,2,Bar,Arabian,2,0,2,4,5,4,5,8,4,NA,3,NA,4,5,5,6,4
+20311,"chinese,salvadorian",Delhi,Near Party Hub,11/5/11,71,Tier A Celebrity,60,1,1,1,1,1,2,Bar,Arabian,4,0,5,3,5,5,8,10,5,NA,4,NA,4,5,4,4,5
+20312,"tibetan,greek",Noida,Near Party Hub,28-06-2009,84.4,Tier A Celebrity,82.2,1,1,1,0,1,2,Bar,Greek,3,0,6,5,6,5,9,8,NA,3,NA,NA,5,8,7,4,7
+20313,"algerian,belgian",Bangalore,Near Business Hub,20-09-2007,78.53,Not Specific,74.14,1,1,1,1,0,2,Bar,Arabian,2,0,6,6,6,4,10,10,4,NA,NA,NA,5,9,7,5,9
+20314,"welsh,thai",Hyderabad,Near Party Hub,30-06-2010,68.5,Not Specific,68.4,1,1,1,1,0,2,Bar,Arabian,3,1,9,5,4,2,5,9,5,NA,NA,NA,6,6,5,2,7
+20315,"indian,irish",Nagpur,Near Party Hub,13-02-2011,79,Tier A Celebrity,71,1,1,0,0,1,2,Bar,Greek,2,0,1,4,4,5,9,NA,4,NA,NA,NA,5,8,8,1,9
+20316,"british,belgian",Faridabad,Near Party Hub,26-12-2006,63,Not Specific,55,1,1,0,1,0,2,Caffee,Arabian,2,0,1,3,2,4,5,NA,NA,NA,NA,NA,6,6,4,6,4
+20317,"indian,irish",Bhubaneshwar,Near Party Hub,29-03-2010,71.76,Not Specific,61.5,1,1,1,1,1,2,Bar,Marco,3,0,8,4,3,3,5,8,NA,NA,NA,3,6,8,7,7,9
+20318,"turkish,sapnish",Bangalore,Near Party Hub,25-03-2010,64.5,Not Specific,85.5,1,1,0,1,1,2,Bar,Greek,2,0,5,2,3,5,6,6,3,2,NA,NA,4,5,6,4,6
+20319,"tibetan,greek",Mumbai,Near Party Hub,7/2/11,67.6,Tier A Celebrity,62,1,1,1,1,1,2,Bar,Parsi,2,0,3,5,5,3,7,NA,NA,NA,NA,NA,9,9,6,4,8
+20320,"indian,irish",New Delhi,Near Business Hub,1/7/11,80,Tier A Celebrity,66,1,1,1,1,1,2,Bar,Greek,2,0,10,2,4,4,10,7,NA,2,NA,NA,8,5,6,4,8
+20321,"tibetan,greek",Bangalore,Near Business Hub,25-09-2009,81,Tier A Celebrity,75.6,0,1,0,1,1,2,Bar,Arabian,3,0,6,4,3,5,7,10,4,NA,NA,NA,7,7,5,6,7
+20322,"polish,jewish",Bangalore,Near Business Hub,6/1/10,88.7,Tier A Celebrity,63.5,0,1,1,0,1,2,Bar,Arabian,3,1,7,6,5,5,9,10,4,NA,NA,NA,6,7,7,4,4
+20323,"tibetan,greek",Hyderabad,Near Party Hub,13-04-2010,81.5,Not Specific,89,1,1,1,1,1,2,Bar,Greek,2,1,1,3,5,5,10,9,3,4,NA,NA,9,7,7,7,7
+20324,"japanese,thai",Gurgaon,Near Party Hub,17-07-2008,74,Tier A Celebrity,74,1,1,1,1,1,1,Bar,90's,2,0,1,6,4,6,8,8,3,NA,NA,NA,7,8,6,6,7
+20325,"indian,irish",Karad,Near Party Hub,23-08-2011,93.07,Not Specific,90,1,1,1,1,1,2,Bar,Nature,2,0,1,4,4,4,10,8,NA,NA,NA,4,6,4,5,7,4
+20326,"swedish,greek",Bangalore,Near Party Hub,16-06-2009,86,Tier A Celebrity,87,0,1,1,1,1,2,Bar,Greek,2,0,9,4,6,6,6,9,4,NA,NA,NA,10,9,9,3,8
+20327,"tibetan,greek",Kochi/Cochin,Near Business Hub,9/12/10,93,Not Specific,80,0,1,1,1,1,2,Bar,Arabian,3,0,10,3,5,3,6,10,4,NA,NA,NA,6,8,4,1,7
+20328,"algerian,belgian",Kolkata,Near Party Hub,8/12/11,76,Not Specific,61.6,1,1,1,1,1,2,Bar,Greek,2,1,10,4,4,5,9,7,3,NA,NA,NA,8,7,5,6,9
+20329,"british,japanese",Noida,Near Party Hub,27-12-2009,57.14,Tier A Celebrity,48,1,1,0,1,1,2,Caffee,Arabian,2,1,1,4,5,3,7,10,4,NA,NA,NA,8,6,3,0,8
+20330,"tibetan,greek",-1,Near Party Hub,10/5/10,72.67,Not Specific,68.2,1,1,1,1,1,2,Bar,Arabian,3,0,2,5,4,6,6,10,4,NA,NA,NA,8,8,6,2,8
+20331,"british,japanese",Chennai,Near Party Hub,21-01-2009,79.2,Not Specific,86.91,1,1,0,0,0,2,Bar,90's,3,0,3,3,2,3,7,7,3,NA,NA,NA,4,2,3,5,3
+20332,"tibetan,greek",Navi Mumbai,Near Party Hub,19-11-2009,87.2,Not Specific,87.14,0,1,1,0,0,2,Bar,Arabian,3,1,5,6,5,5,8,7,4,NA,3,NA,6,6,0,6,7
+20333,"peruvian,cuban",Hyderabad,Near Business Hub,28-04-2008,87.2,Tier A Celebrity,75,1,1,1,1,0,2,Bar,Arabian,3,0,5,6,6,5,7,9,5,NA,NA,NA,1,6,3,7,8
+20334,"tibetan,greek",Chennai,Near Business Hub,18-05-2008,93.2,Not Specific,85.66,1,1,0,0,1,2,Bar,Arabian,4,1,7,5,5,6,10,9,6,2,NA,4,8,6,7,1,5
+20335,"turkish,nigerian",Nagpur,Near Business Hub,4/10/10,90.8,Tier A Celebrity,82.6,0,1,0,0,1,2,Bar,Arabian,2,0,5,4,5,5,9,9,5,NA,5,NA,8,9,8,0,10
+20336,"tibetan,greek",Lucknow,Near Business Hub,21-12-2010,72.6,Not Specific,77.16,1,1,1,1,0,1,Bar,Arabian,3,0,7,4,5,5,8,8,4,NA,NA,NA,6,8,5,7,7
+20337,"japanese,thai",Hyderabad,Near Business Hub,2/9/09,85,Not Specific,89,0,1,0,1,1,2,Bar,Arabian,3,1,10,5,4,4,8,10,4,NA,NA,NA,9,8,5,4,8
+20338,"welsh,thai",Jaipur,Near Party Hub,9/7/10,79.67,Not Specific,72.67,1,1,0,1,1,2,Bar,Arabian,2,1,6,5,4,5,6,10,5,NA,4,NA,6,5,6,7,7
+20339,"tibetan,greek",Noida,Near Party Hub,10/11/09,85.4,Tier A Celebrity,81.6,1,1,1,1,1,1,Bar,90's,4,0,4,5,6,6,10,9,6,NA,NA,NA,8,9,9,8,9
+20340,"tibetan,italian",Pune,Near Party Hub,27-02-2008,71,Tier A Celebrity,58,1,1,1,1,1,2,Bar,Greek,3,0,1,5,4,6,5,8,3,3,NA,NA,3,8,6,6,7
+20341,"british,japanese",Bangalore,Near Business Hub,4/2/09,94.4,Not Specific,87,1,1,1,0,1,2,Bar,Parsi,4,1,1,6,5,4,8,10,NA,NA,NA,NA,6,8,5,4,6
+20342,"chinese,salvadorian",-1,Near Party Hub,22-02-2009,65,Tier A Celebrity,62,1,1,1,1,1,2,Bar,Greek,2,0,8,4,3,3,5,8,NA,3,NA,NA,4,7,4,5,7
+20343,"tibetan,italian",Hyderabad,Near Party Hub,25-12-2010,91,Local Celebrity,94.4,1,1,1,0,1,2,Bar,Greek,4,1,1,6,4,5,9,9,NA,5,NA,NA,4,8,4,9,3
+20344,"welsh,thai",Bangalore,Near Party Hub,8/10/05,58,Not Specific,47,1,1,1,1,0,2,Bar,Arabian,1,0,10,3,4,3,7,10,4,NA,NA,NA,7,8,5,2,8
+20345,"cuban,british",-1,Near Party Hub,31-08-2011,60.2,Tier A Celebrity,60.8,1,1,0,1,1,2,Bar,Arabian,2,0,1,4,4,3,5,6,4,NA,2,NA,9,8,7,5,7
+20346,"tibetan,greek",Bangalore,Near Party Hub,16-12-2007,76.2,Not Specific,72.8,1,1,1,1,0,2,Bar,Arabian,3,1,1,4,4,5,5,10,4,NA,NA,NA,6,6,3,6,5
+20347,"turkish,nigerian",-1,Near Party Hub,29-11-2008,71.8,Tier A Celebrity,81.8,1,1,1,1,1,2,Bar,Greek,3,0,6,6,5,6,8,9,NA,5,NA,NA,8,8,5,5,7
+20348,"welsh,thai",Bangalore,Near Party Hub,26-07-2010,85,Tier A Celebrity,77.06,1,1,1,0,1,2,Bar,Arabian,4,0,8,5,4,5,9,10,6,NA,4,NA,9,8,5,5,10
+20349,"irish,belgian",haryana,Near Party Hub,31-07-2005,84,Tier A Celebrity,67,1,1,1,1,1,2,Bar,Nature,2,0,5,5,5,5,6,9,NA,NA,NA,4,4,8,4,3,5
+20350,"chinese,salvadorian",Noida,Near Party Hub,31-03-2011,78,Tier A Celebrity,68.5,1,1,1,1,1,2,Bar,Greek,2,0,5,6,5,5,5,10,3,3,NA,NA,5,4,6,1,1
+20351,"hawaiian,latvian",Hyderabad,Near Party Hub,14-02-2010,78.83,Not Specific,90.2,0,1,1,1,1,2,Bar,Greek,3,1,7,4,3,6,5,7,NA,3,NA,NA,7,8,5,3,6
+20352,"peruvian,cuban",Raipur,Near Party Hub,5/7/14,65,Not Specific,77.2,1,1,1,1,1,2,Bar,Greek,3,0,2,5,4,7,7,10,NA,4,NA,NA,10,9,6,4,8
+20353,"tibetan,greek",Gurgaon,Near Party Hub,6/5/11,89.6,Tier A Celebrity,84.4,1,1,1,1,1,2,Bar,Arabian,3,0,8,5,6,5,9,6,5,NA,2,NA,5,8,6,4,7
+20354,"tibetan,greek",Bangalore ,Near Party Hub,19-01-2010,73,Not Specific,57.8,1,1,0,0,1,2,Bar,Arabian,1,1,8,3,4,4,6,7,3,NA,NA,NA,6,7,5,5,4
+20355,"tibetan,italian",Noida,Near Business Hub,9/1/10,68,Not Specific,83,0,1,0,1,1,2,Bar,Greek,2,0,2,4,3,3,9,6,NA,2,NA,NA,5,3,6,5,5
+20356,"turkish,sapnish",-1,Near Party Hub,21-07-2011,84,Tier A Celebrity,77,1,1,1,1,1,2,Bar,Arabian,3,0,4,6,4,3,6,8,3,NA,NA,NA,4,4,5,6,3
+20357,"british,japanese",Bangalore,Near Party Hub,12/8/09,87.52,Not Specific,86.5,1,1,1,0,1,2,Bar,Arabian,3,0,10,6,5,5,10,9,5,NA,NA,NA,0,4,5,4,5
+20358,"turkish,nigerian",Navi Mumbai,Near Business Hub,11/7/09,90.26,Not Specific,82.7,1,1,1,1,0,2,Bar,Greek,4,0,2,4,6,6,9,9,4,4,NA,NA,8,6,5,4,9
+20359,"japanese,thai",Bangalore,Near Business Hub,27-07-2008,93.43,Not Specific,55.66,1,1,0,1,1,2,Bar,Greek,2,1,1,7,5,3,6,6,3,2,NA,NA,8,7,6,3,6
+20360,"algerian,algerian",Bangalore,Near Party Hub,5/7/06,74,Not Specific,64,1,1,1,1,1,2,Bar,Greek,1,1,9,4,4,4,7,8,3,3,NA,3,9,6,6,5,8
+20361,"algerian,belgian",Vellore,Near Business Hub,7/6/08,93.2,Not Specific,79.75,0,1,1,1,0,2,Bar,Greek,3,0,9,3,4,5,5,NA,2,NA,NA,NA,3,0,5,6,3
+20362,"tibetan,italian", Mumbai,Near Party Hub,2/8/07,66.67,Not Specific,64.08,1,1,0,1,1,2,Bar,Moonrise,1,0,9,4,3,4,7,NA,NA,3,NA,NA,7,6,5,3,7
+20363,"tibetan,greek",-1,Near Party Hub,25-08-2011,82.5,Not Specific,86.3,1,1,1,1,0,2,Bar,Arabian,3,1,10,4,5,4,7,6,3,NA,2,NA,10,10,9,1,9
+20364,"turkish,nigerian",-1,Near Party Hub,24-02-2010,88.83,Not Specific,97.2,1,1,0,0,1,2,Bar,Greek,3,1,6,4,5,6,5,9,4,4,NA,NA,5,8,6,5,6
+20365,"tibetan,italian",Nagpur,Near Party Hub,4/11/10,60.46,Not Specific,55.5,1,1,1,1,1,2,Bar,Arabian,1,0,8,5,5,3,6,6,3,NA,2,NA,5,3,6,5,5
+20366,"swedish,greek",Noida,Near Party Hub,26-11-2011,68.2,Tier A Celebrity,76.4,1,1,0,1,1,1,Bar,Greek,2,1,2,6,4,4,9,10,4,3,4,NA,4,7,5,5,4
+20367,"british,japanese",-1,Near Party Hub,28-04-2011,62.15,Not Specific,63,0,1,1,1,0,2,Bar,90's,2,0,7,4,4,5,9,8,4,NA,NA,NA,9,7,6,4,7
+20368,"british,japanese",Kolkata,Near Party Hub,22-09-2009,73.5,Not Specific,67,0,1,1,1,1,2,Bar,Greek,3,0,4,5,5,5,7,7,4,2,NA,NA,7,8,5,4,7
+20369,"hawaiian,latvian",-1,Near Party Hub,22-03-2010,85.5,Not Specific,92.5,1,1,0,1,0,2,Bar,90's,2,1,9,6,6,6,5,9,6,NA,NA,NA,8,8,4,3,5
+20370,"indian,irish",Bangalore,Near Party Hub,17-08-2011,88,Not Specific,92.3,1,1,1,1,1,2,Bar,Carbone,5,1,2,4,4,5,7,8,4,3,NA,NA,8,6,5,1,6
+20371,"tibetan,greek",Bangalore,Near Party Hub,1/12/10,87.6,Tier A Celebrity,77.8,1,1,0,1,1,1,Bar,Arabian,3,1,9,6,5,7,10,9,6,NA,NA,NA,7,7,9,3,9
+20372,"welsh,thai",Noida,Near Party Hub,27-03-2008,81,Tier A Celebrity,81,1,1,1,1,1,2,Bar,Arabian,2,0,9,7,6,5,9,9,5,NA,NA,NA,5,7,5,5,6
+20373,"welsh,thai",Noida,Near Business Hub,4/1/08,82.8,Tier A Celebrity,68.8,0,1,1,1,1,2,Bar,90's,3,0,7,4,4,6,9,7,3,NA,NA,NA,5,4,5,5,6
+20374,"algerian,belgian",Mumbai,Near Party Hub,16-01-2009,68,Not Specific,65,1,1,1,1,1,2,Bar,Greek,2,0,6,2,3,3,6,6,NA,2,NA,NA,6,7,3,7,6
+20375,"tibetan,greek",Mumbai,Near Business Hub,5/7/08,68.4,Not Specific,68,1,1,1,1,1,2,Bar,90's,1,0,7,4,5,4,7,8,3,NA,NA,NA,6,7,5,3,6
+20376,"welsh,thai",Patiala,Near Party Hub,9/8/11,69,Tier A Celebrity,69,1,1,0,1,1,2,Bar,Arabian,2,0,5,3,3,4,7,9,5,NA,NA,NA,7,7,6,3,8
+20377,"welsh,thai",Gurgaon ,Near Party Hub,9/9/08,67.5,Local Celebrity,63.6,1,1,1,0,1,2,Bar,Arabian,2,0,7,5,4,6,8,8,3,NA,NA,NA,5,6,5,4,7
+20378,"tibetan,italian",Bangalore,Near Party Hub,13-06-2009,86.12,Not Specific,77,1,1,1,1,1,2,Bar,90's,3,1,1,4,4,4,5,9,5,NA,NA,NA,4,6,2,7,6
+20379,"tibetan,greek",Hyderabad,Near Party Hub,6/10/10,84,Tier A Celebrity,81,1,1,0,1,1,2,Bar,Nature,2,1,4,6,3,3,9,7,4,NA,NA,3,7,9,7,7,6
+20380,"turkish,nigerian",Coimbatore,Near Party Hub,19-08-2009,70.27,Not Specific,85.67,1,1,1,1,0,2,Bar,Benedicta,3,0,5,3,3,4,7,8,3,2,NA,3,6,8,3,6,6
+20381,"polish,jewish",Bangalore,Near Party Hub,15-08-2009,70.5,Not Specific,82.8,1,1,1,0,1,2,Bar,Arabian,2,0,5,5,6,6,10,9,6,NA,NA,NA,6,6,5,5,6
+20382,"algerian,belgian",kanpur,Near Party Hub,12/2/10,69.6,Tier A Celebrity,76.8,1,1,1,1,1,2,Bar,Greek,2,0,4,4,5,6,7,6,NA,2,NA,NA,8,7,2,3,5
+20383,"hawaiian,latvian",pune,Near Party Hub,4/11/10,84.4,Not Specific,88,1,1,1,1,1,2,Gastro Bar,Greek,4,0,1,4,5,5,7,9,3,4,NA,NA,6,7,4,2,8
+20384,"british,japanese",Chandigarh,Near Party Hub,23-05-2008,80.58,Not Specific,80.22,1,1,0,1,1,1,Bar,Nature,4,0,2,4,3,5,6,9,NA,NA,NA,5,6,7,8,0,9
+20385,"peruvian,cuban",new delhi,Near Party Hub,2/4/10,72,Tier A Celebrity,67,1,1,0,1,1,2,Bar,Greek,2,0,8,3,3,5,5,9,2,4,NA,NA,5,8,5,7,9
+20386,"tibetan,greek",-1,Near Business Hub,18-09-2010,71,Not Specific,68,0,1,1,1,1,2,Bar,Arabian,4,1,2,3,5,2,7,9,5,NA,NA,NA,7,7,7,2,5
+20387,"chinese,salvadorian",Hissar,Near Party Hub,9/7/10,79.8,Tier A Celebrity,78.2,1,1,1,1,1,2,Bar,Nature,2,0,1,3,5,4,9,8,NA,NA,NA,3,7,7,4,5,4
+20388,"welsh,thai",-1,Near Party Hub,12/12/10,71.6,Tier A Celebrity,72.8,1,1,0,1,1,2,Bar,Arabian,2,0,4,5,4,2,9,10,3,NA,4,NA,9,9,8,5,7
+20389,"indian,irish",Hyderabad,Near Party Hub,31-08-2010,92.3,Not Specific,89.7,0,1,1,1,1,2,Bar,Greek,2,1,7,3,5,6,8,6,3,2,NA,NA,8,7,7,6,5
+20390,"tibetan,greek",Hyderabad,Near Party Hub,21-06-2008,86.5,Not Specific,91,1,1,0,1,0,2,Bar,Arabian,3,1,5,5,6,5,7,9,7,NA,NA,NA,0,6,2,5,4
+20391,"british,japanese",Hyderabad,Near Party Hub,24-08-2011,79.5,Not Specific,77.1,1,1,1,1,1,2,Bar,Arabian,3,1,5,3,4,4,9,6,NA,NA,2,NA,9,6,4,4,8
+20392,"tibetan,italian",Hyderabad,Near Party Hub,30-03-2009,88,Not Specific,97.2,1,1,1,0,0,2,Bar,Arabian,3,1,2,4,4,5,5,9,6,NA,NA,NA,5,9,6,2,8
+20393,"indian,irish",Noida,Near Party Hub,16-03-2009,65.5,Not Specific,60.8,1,1,1,1,1,2,Bar,90's,2,0,1,3,5,4,10,6,2,NA,NA,NA,7,8,6,5,6
+20394,"welsh,thai",Lucknow,Near Party Hub,27-06-2011,71,Not Specific,66,1,1,1,0,0,2,Bar,Arabian,3,0,2,3,3,3,10,7,3,NA,NA,NA,7,9,5,3,8
+20395,"tibetan,greek",Bangalore,Near Party Hub,10/3/12,68.2,Tier A Celebrity,55,1,1,0,1,1,2,Bar,Arabian,2,0,1,5,4,4,6,7,5,NA,3,NA,9,8,10,5,7
+20396,"tibetan,greek",Gurgaon,Near Party Hub,9/1/10,83.8,Tier A Celebrity,80.25,1,1,1,1,0,2,Bar,Arabian,2,0,5,6,5,4,10,10,4,NA,4,NA,6,7,6,5,3
+20397,"japanese,thai",Yamuna Nagar,Near Party Hub,19-07-2008,60,Local Celebrity,64,1,1,1,1,0,2,Bar,Arabian,3,0,4,5,4,4,10,8,4,NA,NA,NA,6,8,5,5,7
+20398,"welsh,thai",Hyderabad,Near Business Hub,10/5/04,65.67,Not Specific,72.2,1,1,1,1,1,2,Gastro Bar,Arabian,4,0,3,4,4,5,6,9,5,NA,NA,NA,8,7,4,6,6
+20399,"chinese,salvadorian",Bangalore,Near Party Hub,28-06-2010,81.86,Not Specific,65.5,0,1,1,1,1,2,Bar,Arabian,3,0,8,4,4,4,10,8,4,NA,NA,NA,3,3,2,2,5
+20400,"indian,irish",Chennai,Near Party Hub,24-03-2012,77,Not Specific,91,1,1,1,0,1,2,Bar,Greek,3,1,8,4,3,3,5,10,2,3,2,NA,8,6,7,3,7
+20401,"british,japanese",Pune,Near Party Hub,11/3/12,67,Tier A Celebrity,76,0,1,1,0,1,2,Bar,Nature,3,0,3,5,4,4,7,9,3,NA,NA,4,2,7,6,5,7
+20402,"indian,irish",-1,Near Party Hub,5/2/08,51.83,Not Specific,58,1,1,0,1,1,2,Caffee,Arabian,2,0,6,3,4,6,6,9,5,NA,NA,NA,6,6,4,5,7
+20403,"tibetan,greek",Bangalore,Near Party Hub,22-02-2010,81,Not Specific,88.7,1,1,0,1,1,2,Bar,Arabian,2,1,8,4,4,5,5,8,3,NA,NA,NA,7,7,5,4,6
+20404,"peruvian,cuban",Chennai,Near Business Hub,21-02-2010,70.6,Tier A Celebrity,68,1,1,1,1,1,2,Bar,90's,2,1,3,5,5,4,5,10,4,NA,NA,NA,4,6,4,7,5
+20405,"tibetan,greek",mumbai,Near Party Hub,10/3/09,89.6,Not Specific,67,1,1,1,1,0,2,Bar,Greek,3,0,10,6,5,5,5,9,NA,5,NA,NA,3,7,3,5,6
+20406,"tibetan,greek",Bangalore,Near Party Hub,17-07-2008,69.16,Not Specific,65.66,1,1,1,1,1,1,Gastro Bar,Arabian,3,0,7,3,4,6,8,9,6,NA,NA,NA,5,8,5,5,4
+20407,"turkish,sapnish",Rourkela,Near Business Hub,10/8/09,78,Not Specific,51.3,1,1,1,1,0,2,Bar,Arabian,3,0,8,4,5,4,5,8,3,NA,NA,NA,8,6,5,5,6
+20408,"algerian,korean",Bangalore,Near Party Hub,28-05-2011,80,Not Specific,72.1,1,1,1,1,0,2,Bar,90's,2,0,7,4,5,3,5,6,3,NA,2,NA,9,8,7,2,7
+20409,"indian,irish",Banaglore,Near Party Hub,6/10/09,85,Not Specific,67,1,1,1,1,1,2,Bar,Greek,2,1,4,3,4,4,6,7,5,2,NA,NA,10,7,10,0,9
+20410,"irish,belgian",-1,Near Party Hub,15-07-2009,80.4,Tier A Celebrity,66,1,1,1,1,1,2,Bar,Arabian,3,0,7,4,4,4,8,8,4,NA,NA,NA,5,6,7,8,8
+20411,"algerian,belgian",Jodhpur,Near Party Hub,25-10-2010,69,Tier A Celebrity,74,1,1,1,1,0,2,Bar,Greek,3,1,5,5,5,5,6,9,NA,5,NA,NA,10,7,3,1,6
+20412,"tibetan,greek",Noida,Near Party Hub,6/1/10,75.4,Tier A Celebrity,76.6,1,1,1,1,1,2,Bar,Arabian,2,0,3,4,5,6,8,10,4,NA,NA,NA,9,5,3,2,6
+20413,"welsh,thai",-1,Near Party Hub,19-02-2011,90.81,Not Specific,94.91,1,1,1,1,1,2,Bar,Greek,4,0,6,5,5,3,7,7,4,2,NA,NA,7,5,5,4,3
+20414,"algerian,belgian",Pune,Near Party Hub,26-11-2005,67.2,Not Specific,58,1,1,0,1,1,2,Bar,Arabian,1,1,5,4,5,1,5,10,4,NA,NA,NA,5,1,6,4,7
+20415,"nigerian,cajun",Hyderabad,Near Party Hub,6/10/11,88.5,Not Specific,94.1,1,1,1,1,1,2,Bar,Greek,3,1,3,5,4,4,10,7,NA,2,2,NA,9,6,6,0,6
+20416,"japanese,thai",-1,Near Party Hub,28-03-2011,85.38,Not Specific,83.34,1,1,1,0,1,2,Bar,Arabian,1,1,7,6,5,6,7,9,4,NA,5,NA,7,9,8,1,7
+20417,"indian,irish",Baripada,Near Party Hub,3/4/09,82,Not Specific,62.3,1,1,1,1,1,2,Bar,Nature,2,0,3,5,4,4,5,6,NA,NA,NA,2,4,4,4,3,3
+20418,"tibetan,greek",Chennai,Near Party Hub,12/8/11,71.2,Tier A Celebrity,85.5,1,1,1,0,1,2,Bar,Greek,3,1,9,6,5,3,8,6,3,2,NA,NA,6,8,6,7,8
+20419,"chinese,salvadorian",pune,Near Business Hub,25-05-2011,70,Not Specific,62,1,1,1,1,1,2,Bar,Arabian,2,1,10,3,4,2,10,7,3,NA,3,NA,6,5,5,3,6
+20420,"tibetan,italian",Gurgaon,Near Party Hub,6/2/07,76.4,Not Specific,78.2,1,1,1,1,0,2,Bar,Greek,1,1,4,5,5,5,9,7,3,3,NA,NA,5,9,6,6,6
+20421,"tibetan,greek",bhubaneswar,Near Business Hub,7/3/11,90.8,Not Specific,88,1,1,1,1,1,2,Bar,Chinese,4,0,8,3,5,6,7,9,NA,NA,NA,NA,10,8,5,2,9
+20422,"turkish,nigerian",Bangalore,Near Business Hub,17-03-2010,81.86,Tier A Celebrity,81.66,1,1,1,1,1,2,Bar,Greek,4,1,9,6,5,7,10,10,4,3,NA,NA,6,7,2,6,6
+20423,"welsh,thai",Noida,Near Party Hub,11/3/08,65.4,Tier A Celebrity,60.4,1,1,1,1,1,2,Caffee,Arabian,3,0,6,6,5,7,10,9,5,NA,NA,NA,7,7,7,3,3
+20424,"tibetan,greek",Bhubaneshwar,Near Business Hub,15-04-2007,79.33,Not Specific,50,1,0,1,0,1,2,Caffee,Arabian,4,0,3,4,5,2,10,9,5,NA,NA,NA,8,10,6,3,8
+20425,"chinese,salvadorian",Kolkata,Near Party Hub,27-08-2008,71.73,Not Specific,68.17,1,1,1,1,1,2,Bar,Chinese,2,0,9,3,3,4,10,7,NA,3,NA,NA,8,9,7,6,7
+20426,"welsh,thai",Mumbai,Near Party Hub,29-03-2011,77.2,Tier A Celebrity,80,0,1,1,1,1,2,Bar,Molino,3,0,10,5,5,5,6,7,NA,NA,NA,NA,7,6,6,1,7
+20427,"tibetan,greek",Hyderabad,Near Party Hub,1/7/11,65,Not Specific,87.9,1,1,0,1,1,2,Bar,Arabian,2,0,1,4,4,4,10,7,3,NA,NA,NA,6,3,4,7,3
+20428,"indian,irish",Noida,Near Business Hub,26-05-2007,81,Tier A Celebrity,84,0,1,1,0,1,2,Caffee,Arabian,3,0,8,5,5,5,6,10,4,NA,NA,NA,6,5,4,4,6
+20429,"tibetan,greek",Gurgaon,Near Party Hub,26-06-2009,65.17,Not Specific,66.2,1,1,1,1,1,2,Bar,90's,3,0,2,5,5,6,6,9,5,NA,5,NA,6,6,6,1,7
+20430,"irish,belgian",Lucknow,Near Party Hub,6/9/09,73,Tier A Celebrity,70,1,1,1,1,1,2,Bar,Arabian,2,0,1,5,5,3,10,6,3,NA,NA,NA,7,9,9,4,6
+20431,"chinese,salvadorian",-1,Near Party Hub,21-11-2009,69,Not Specific,81.4,1,1,1,1,0,2,Bar,Arabian,2,0,1,4,5,5,9,10,5,NA,4,NA,4,7,6,6,5
+20432,"chinese,salvadorian",Mumbai,Near Party Hub,27-03-2010,71.07,Not Specific,51.23,1,1,0,1,1,2,Bar,Greek,2,0,1,4,4,3,10,NA,NA,NA,NA,NA,8,9,6,3,6
+20433,"indian,irish",Bangalore,Near Party Hub,16-07-2007,77,Tier A Celebrity,63,1,1,1,1,1,2,Bar,Arabian,2,0,1,5,4,4,6,10,4,NA,NA,NA,3,7,4,8,9
+20434,"cuban,british",DELHI,Near Party Hub,16-10-2011,85.2,Tier A Celebrity,64,1,1,0,1,1,2,Bar,Arabian,2,0,5,4,4,4,7,6,4,NA,2,NA,8,9,7,4,8
+20435,"polish,jewish",Rudrapur,Near Party Hub,18-03-2008,79.6,Not Specific,68.4,1,1,0,0,1,2,Bar,Nature,3,0,1,4,5,5,7,10,NA,NA,NA,4,6,9,5,5,6
+20436,"british,japanese",Bangalore,Near Business Hub,19-07-2010,93,Not Specific,85,1,1,1,1,1,2,Bar,Arabian,3,0,9,6,6,6,7,9,5,NA,NA,NA,6,8,7,5,6
+20437,"tibetan,italian",-1,Near Business Hub,26-07-2008,78,Not Specific,81,1,1,1,1,0,2,Bar,90's,4,0,8,4,5,5,7,10,4,NA,NA,NA,7,7,7,2,8
+20438,"tibetan,greek",Navi Mumbai,Near Party Hub,16-06-2011,82.8,Not Specific,89.2,1,1,1,1,1,2,Bar,Greek,3,0,5,4,3,5,8,9,7,4,NA,NA,6,6,6,4,6
+20439,"turkish,sapnish",Chennai,Near Party Hub,13-09-2009,90.3,Not Specific,96.25,0,1,1,1,1,2,Bar,Greek,4,0,1,5,5,5,9,6,5,2,NA,NA,8,8,5,2,7
+20440,"algerian,belgian",-1,Near Business Hub,14-04-2011,82,Tier A Celebrity,64,1,1,1,0,1,2,Bar,Arabian,3,0,6,5,5,4,6,6,3,NA,2,NA,3,9,4,9,7
+20441,"chinese,salvadorian",Navi Mumbai,Near Party Hub,21-10-2011,67,Not Specific,72,1,1,1,0,1,2,Bar,Nature,3,0,7,6,5,4,8,10,NA,NA,NA,4,8,6,5,6,7
+20442,"tibetan,greek",Noida,Near Party Hub,17-10-2007,60,Tier A Celebrity,64,1,1,1,1,1,2,Caffee,Arabian,3,1,6,3,5,4,8,7,3,NA,NA,NA,5,6,4,3,5
+20443,"british,japanese",Dehradun,Near Party Hub,4/8/10,72.2,Not Specific,76.8,1,1,1,1,1,2,Bar,90's,3,0,7,4,4,5,6,7,4,NA,3,NA,8,9,6,4,8
+20444,"japanese,thai",kolkata,Near Business Hub,29-04-2010,84.4,Tier A Celebrity,79.6,1,1,0,0,1,2,Bar,Arabian,3,1,10,3,5,4,8,10,4,NA,NA,NA,7,4,5,4,5
+20445,"british,japanese",Madurai,Near Business Hub,29-01-2012,73.2,Tier A Celebrity,86.5,1,1,1,1,1,2,Bar,Greek,4,0,4,4,5,5,10,8,NA,1,NA,NA,5,6,2,2,5
+20446,"welsh,thai",Bangalore,Near Party Hub,15-05-2011,87.68,Not Specific,75,1,1,0,1,0,2,Bar,Chinese,2,1,3,4,4,2,5,NA,4,NA,3,NA,7,6,7,0,6
+20447,"chinese,salvadorian",New Delhi,Near Business Hub,10/3/12,57,Not Specific,73,1,1,1,1,1,2,Bar,Arabian,3,0,7,5,4,5,7,10,3,NA,4,NA,5,6,5,7,8
+20448,"tibetan,greek",Lucknow,Near Party Hub,24-09-2010,67,Not Specific,58,0,1,1,1,0,2,Bar,90's,2,0,4,3,3,5,10,7,3,NA,NA,NA,4,0,0,5,3
+20449,"tibetan,greek",Pune,Near Party Hub,23-09-2009,88,Tier A Celebrity,76,0,1,1,0,0,2,Bar,Arabian,3,0,1,5,5,6,10,9,6,NA,NA,NA,7,8,5,4,5
+20450,"british,japanese",Raipur,Near Party Hub,2/8/09,74,Not Specific,81,0,1,1,1,1,2,Bar,Arabian,3,0,5,3,4,2,9,9,4,NA,5,NA,9,8,10,2,6
+20451,"tibetan,greek",Pune,Near Party Hub,23-03-2008,76.16,Not Specific,66.5,1,1,1,1,1,2,Bar,Arabian,2,0,2,4,7,4,10,10,4,NA,NA,NA,7,7,5,4,5
+20452,"chinese,salvadorian",Bilaspur,Near Party Hub,1/6/11,82.62,Not Specific,61,1,1,1,1,1,2,Bar,Arabian,2,0,1,4,3,4,10,6,2,NA,NA,NA,7,8,9,3,6
+20453,"algerian,algerian",CHENNAI,Near Business Hub,9/10/12,93,Not Specific,89,1,1,1,0,1,2,Bar,90's,4,0,7,3,4,3,5,10,4,NA,4,NA,5,7,5,7,5
+20454,"algerian,belgian",Dausa,Near Party Hub,15-10-2008,83,Not Specific,70,1,1,0,1,1,2,Bar,Arabian,3,1,3,3,5,4,8,10,4,NA,NA,NA,6,7,7,4,8
+20455,"tibetan,italian",Gurgaon,Near Business Hub,30-11-2007,88.75,Tier A Celebrity,88.75,1,1,1,0,1,2,Bar,Arabian,4,0,5,5,4,5,8,9,5,NA,NA,NA,4,7,5,5,8
+20456,"welsh,thai",Asifabadbanglore,Near Business Hub,16-03-2011,78.72,Not Specific,69.88,0,1,1,1,1,2,Bar,Arabian,3,1,5,4,4,3,8,10,4,NA,4,NA,6,7,5,4,6
+20457,"turkish,nigerian",Mumbai,Near Party Hub,22-03-2008,84,Not Specific,85.3,1,1,0,0,1,2,Bar,Arabian,2,0,6,5,5,5,7,10,4,NA,NA,NA,5,6,6,4,7
+20458,"chinese,salvadorian",Chennai,Near Party Hub,8/7/08,81.4,Not Specific,72,1,1,1,1,1,2,Bar,Nature,3,1,4,4,3,3,6,8,3,NA,NA,3,4,7,4,3,4
+20459,"tibetan,greek",Jaipur,Near Party Hub,28-03-2011,74,Tier A Celebrity,75,1,1,0,1,1,2,Bar,Greek,2,1,1,4,5,6,10,9,5,4,NA,NA,6,7,8,3,4
+20460,"swedish,greek",Bangalore,Near Business Hub,17-06-2010,89.44,Not Specific,75.33,1,1,0,0,1,2,Bar,Arabian,2,0,4,5,4,3,6,10,4,NA,NA,NA,8,7,9,4,7
+20461,"indian,irish",Hyderabad,Near Party Hub,17-07-2010,91,Not Specific,96.7,1,1,1,1,1,2,Bar,Greek,4,0,4,6,5,6,9,9,NA,4,NA,NA,5,8,5,4,7
+20462,"peruvian,cuban",Kolkata,Near Business Hub,18-11-2010,72.5,Not Specific,67,0,1,0,0,1,2,Bar,Greek,3,1,8,5,4,4,8,NA,NA,NA,NA,NA,9,10,7,2,8
+20463,"tibetan,greek",Noida,Near Party Hub,31-12-2008,85,Tier A Celebrity,84,1,1,1,1,0,2,Bar,90's,2,0,2,5,4,5,7,10,4,NA,NA,NA,9,8,6,6,8
+20464,"british,japanese",mohali,Near Party Hub,30-08-2011,72,Tier A Celebrity,75.6,1,1,1,1,1,2,Bar,Arabian,3,0,5,5,3,4,5,9,4,NA,5,NA,8,9,8,6,10
+20465,"algerian,korean",Rajpura,Near Party Hub,22-12-2006,84.2,Not Specific,69.2,0,1,1,1,1,2,Bar,Molino,2,0,8,4,6,5,6,9,NA,NA,NA,NA,4,7,1,3,7
+20466,"indian,irish",Bangalore,Near Party Hub,11/1/04,46,Not Specific,56,1,1,1,1,0,2,Caffee,Arabian,3,1,8,5,4,6,7,10,4,NA,NA,NA,7,6,4,3,6
+20467,"peruvian,cuban",New Delhi,Near Party Hub,5/11/10,72,Tier A Celebrity,62,1,1,1,1,1,2,Bar,Arabian,2,0,6,3,3,4,8,6,2,NA,NA,NA,8,7,7,8,7
+20468,"swedish,greek",Jaipur,Near Party Hub,7/6/11,67.17,Not Specific,61.23,1,1,1,1,1,2,Bar,Arabian,2,1,10,4,4,6,6,7,3,NA,NA,NA,7,2,2,4,2
+20469,"turkish,nigerian",-1,Near Party Hub,5/1/12,84.2,Tier A Celebrity,91.2,1,1,0,1,1,1,Bar,Greek,3,1,1,5,5,7,9,10,3,3,NA,NA,7,6,4,4,3
+20470,"tibetan,greek",Bangalore,Near Party Hub,24-01-2011,63,Tier A Celebrity,74.83,0,1,1,1,1,2,Bar,Greek,2,1,5,4,5,4,5,7,4,2,3,NA,6,4,6,2,4
+20471,"tibetan,greek",-1,Near Party Hub,27-09-2008,79,Tier A Celebrity,56,0,1,0,1,0,2,Bar,Greek,2,0,8,4,5,4,6,6,NA,2,NA,NA,7,5,5,6,8
+20472,"tibetan,greek",Noida,Near Party Hub,10/9/11,85,Tier A Celebrity,82,1,1,1,1,1,2,Bar,Greek,3,0,6,5,6,6,9,NA,5,NA,3,NA,8,8,7,2,6
+20473,"tibetan,greek",Noida,Near Party Hub,29-07-2008,91.3,Tier A Celebrity,81,0,1,1,1,1,2,Bar,Arabian,4,0,4,5,4,5,5,9,5,NA,NA,NA,9,10,5,5,7
+20474,"chinese,salvadorian",-1,Near Party Hub,30-07-2011,84,Not Specific,84,1,1,1,1,1,2,Bar,90's,2,0,8,4,3,3,5,8,3,NA,3,NA,9,10,9,0,7
+20475,"british,japanese",-1,Near Party Hub,3/1/11,91.6,Not Specific,86.6,1,1,1,1,1,2,Bar,Arabian,4,0,7,5,5,5,6,9,5,NA,NA,NA,9,7,0,3,7
+20476,"algerian,korean",New Delhi,Near Party Hub,17-12-2009,51.42,Not Specific,55.44,1,1,1,1,0,2,Caffee,Arabian,2,0,3,3,4,4,10,8,4,NA,3,NA,10,8,2,3,6
+20477,"algerian,belgian",Hyderabad,Near Party Hub,21-09-2009,75.83,Not Specific,78.6,1,1,1,1,1,2,Bar,Arabian,2,0,8,3,4,5,10,8,4,NA,NA,NA,8,8,5,5,5
+20478,"turkish,nigerian",-1,Near Party Hub,31-10-2008,67.33,Not Specific,64,1,1,1,1,0,1,Caffee,Arabian,4,0,2,4,4,4,6,9,6,NA,NA,NA,7,5,7,6,4
+20479,"irish,belgian",Bangalore,Near Party Hub,23-05-2008,86.5,Not Specific,90.6,1,0,1,0,1,2,Caffee,Arabian,3,0,8,5,6,6,9,9,5,NA,NA,NA,9,8,4,2,6
+20480,"cuban,british",-1,Near Business Hub,15-10-2011,88.3,Not Specific,83.5,1,1,1,1,1,2,Bar,Arabian,2,0,9,5,5,5,7,9,6,NA,NA,NA,6,7,5,4,7
+20481,"turkish,nigerian",-1,Near Party Hub,23-06-2007,90.8,Not Specific,86.6,0,1,1,1,1,2,Bar,Greek,3,0,6,4,5,4,9,NA,3,NA,NA,NA,8,10,9,5,8
+20482,"tibetan,greek",Chennai,Near Party Hub,23-07-2011,91.17,Not Specific,87.2,1,1,1,1,1,2,Bar,90's,2,1,8,5,6,7,8,10,4,NA,NA,NA,9,8,6,2,6
+20483,"welsh,thai",Hyderabad,Near Party Hub,25-02-2010,82.6,Tier A Celebrity,81.8,1,1,1,1,1,2,Bar,90's,2,0,9,7,4,6,8,9,5,NA,NA,NA,5,8,5,4,8
+20484,"british,japanese",Bangalore,Near Business Hub,23-02-2005,84.93,Not Specific,81.67,1,1,1,1,1,2,Caffee,Arabian,3,0,10,5,5,5,10,9,5,NA,NA,NA,6,9,9,1,4
+20485,"peruvian,cuban",Dammam,Near Party Hub,7/1/10,87.4,Tier A Celebrity,63,1,1,1,0,1,1,Bar,Nature,1,1,10,5,5,4,6,9,NA,NA,NA,4,5,6,5,4,6
+20486,"welsh,thai",Jaipur,Near Party Hub,15-01-2009,54.5,Not Specific,72.4,1,1,1,1,1,2,Bar,Arabian,2,0,7,3,2,2,10,6,1,NA,NA,NA,6,1,2,4,2
+20487,"irish,belgian",Noida,Near Party Hub,6/11/11,71.33,Not Specific,54.8,1,1,1,1,1,2,Bar,90's,2,0,1,5,4,5,5,8,4,NA,NA,NA,7,6,6,7,5
+20488,"tibetan,italian",New Delhi,Near Business Hub,11/1/09,86.7,Tier A Celebrity,80.6,1,1,1,0,1,2,Bar,Greek,3,0,7,4,5,4,8,7,NA,3,NA,NA,4,3,4,7,2
+20489,"british,japanese",Pilani,Near Party Hub,28-09-2009,74.33,Not Specific,82.2,1,1,1,1,1,2,Bar,Greek,3,1,2,3,5,5,5,9,NA,4,NA,NA,8,8,5,5,5
+20490,"welsh,thai",shahibabad,Near Party Hub,12/6/12,68.83,Not Specific,69.6,1,1,1,1,1,2,Bar,Nature,3,0,7,3,4,7,10,10,NA,NA,NA,4,7,9,6,6,8
+20491,"tibetan,greek",Gurgaon,Near Party Hub,12/12/10,53.4,Tier A Celebrity,65.4,1,1,1,1,1,2,Bar,Arabian,3,0,10,5,4,6,5,9,5,NA,5,NA,7,6,5,2,9
+20492,"algerian,belgian",Gurgaon,Near Party Hub,27-12-2010,86.4,Tier A Celebrity,79.8,1,1,1,0,0,2,Bar,Molino,3,0,3,6,4,4,9,10,NA,NA,NA,NA,4,4,5,6,1
+20493,"tibetan,greek",-1,Near Party Hub,12/3/09,78,Not Specific,91,1,1,1,1,0,2,Bar,Greek,2,1,7,4,4,3,7,NA,4,NA,3,NA,10,5,6,1,5
+20494,"algerian,korean",Bangalore,Near Party Hub,25-06-2009,82.4,Not Specific,66.2,1,1,1,0,1,2,Bar,Arabian,2,1,9,4,4,5,9,10,4,NA,4,NA,6,6,6,5,5
+20495,"welsh,thai",New Delhi,Near Party Hub,5/4/09,83,Tier A Celebrity,70,1,1,1,0,1,2,Bar,90's,2,0,2,7,6,7,10,10,4,NA,NA,NA,6,7,4,6,7
+20496,"indian,irish",Noida,Near Party Hub,8/9/09,72,Not Specific,72,1,1,1,1,1,2,Bar,90's,3,0,4,4,5,5,9,9,5,NA,NA,NA,7,8,5,2,7
+20497,"tibetan,greek",Bangalore,Near Party Hub,20-06-2007,78.28,Not Specific,53.55,1,1,1,1,0,2,Bar,90's,1,0,7,5,4,4,9,8,3,NA,NA,NA,9,8,8,4,8
+20498,"indian,irish",Bangalore,Near Party Hub,19-06-2010,72.6,Tier A Celebrity,71.4,0,1,0,0,1,2,Bar,90's,2,1,3,6,5,6,8,9,5,NA,4,NA,1,6,5,7,2
+20499,"tibetan,greek",Chennai,Near Party Hub,23-08-2012,93.4,Not Specific,95.9,1,1,0,1,0,2,Bar,Greek,3,0,7,6,6,6,6,9,6,6,NA,NA,7,7,2,3,5
+20500,"tibetan,greek",Bhopal,Near Party Hub,10/3/10,65.5,Not Specific,68.2,1,1,0,1,1,2,Caffee,Arabian,4,0,5,4,5,6,7,9,5,NA,NA,NA,7,6,6,7,7
